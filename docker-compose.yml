@@ -1,0 +1,209 @@
+name: quantos-contest
+x-logging: &logging
+  driver: json-file
+  options: {max-size: "10m", max-file: "3"}
+x-app: &app
+  image: quantos-contest:local
+  build:
+    context: .
+    dockerfile: Dockerfile
+  logging: *logging
+  init: true
+  user: "${CONTEST_UID:-10001}:${CONTEST_GID:-10001}"
+  env_file: [deploy/contest/secrets.env]
+  environment: &app-env
+    QUANTOS_CONTEST_DIR: /contest
+    CONTEST_MYSQL_HOST: mysql
+    CONTEST_REDIS_HOST: redis
+    CONTEST_KAFKA: kafka:9092
+    CONTEST_CLICKHOUSE: http://clickhouse:8123
+    CONTEST_MINIO: minio:9000
+    CONTEST_AUTH_REQUIRED: "1"
+    CONTEST_INFERENCE_ENGINE: flink-compiled-v1
+    CONTEST_EVIDENCE_DIR: /evidence
+  volumes:
+    - ./.quantos-contest:/contest
+    - ./data:/input:ro
+    - ./docs/contest:/evidence:ro
+  restart: unless-stopped
+services:
+  mysql:
+    logging: *logging
+    image: mysql:8.0.45@sha256:4af1f8815716546f5b12410f7621f37f93db8dd11a184706ef59111930b8c2ff
+    environment:
+      MYSQL_ROOT_PASSWORD: ${CONTEST_ROOT_PASSWORD:?run scripts/contest.sh setup}
+      MYSQL_DATABASE: quantos
+      MYSQL_USER: quantos
+      MYSQL_PASSWORD: ${CONTEST_PASSWORD:?run scripts/contest.sh setup}
+    command: [--innodb-buffer-pool-size=128M, --max-connections=40]
+    volumes: [mysql_data:/var/lib/mysql]
+    ports: ["127.0.0.1:13306:3306"]
+    mem_limit: 768m
+    healthcheck:
+      test: [CMD-SHELL, 'MYSQL_PWD=$$MYSQL_PASSWORD mysql -uquantos -Dquantos -e "SELECT 1"']
+      interval: 10s
+      retries: 30
+  redis:
+    logging: *logging
+    image: redis:7.4.2-alpine@sha256:02419de7eddf55aa5bcf49efb74e88fa8d931b4d77c07eff8a6b2144472b6952
+    command: [redis-server, --maxmemory, 96mb, --maxmemory-policy, noeviction]
+    ports: ["127.0.0.1:16379:6379"]
+    mem_limit: 160m
+    healthcheck:
+      test: [CMD, redis-cli, ping]
+      interval: 5s
+      retries: 10
+  kafka:
+    logging: *logging
+    image: apache/kafka:4.1.2@sha256:5cc2a2fd93fa2687b44015eee04fb2c3edd9e526bd64bf8bec5ff1e268772e0e
+    environment:
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_LISTENERS: PLAINTEXT://:9092,CONTROLLER://:9093,EXTERNAL://:19092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,EXTERNAL://127.0.0.1:19092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT,EXTERNAL:PLAINTEXT
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'false'
+      KAFKA_HEAP_OPTS: -Xms256m -Xmx384m
+      KAFKA_LOG_RETENTION_HOURS: 168
+      KAFKA_LOG_RETENTION_BYTES: 536870912
+      KAFKA_LOG_DIRS: /var/lib/kafka/data
+    volumes: [kafka_data:/var/lib/kafka/data]
+    ports: ["127.0.0.1:19092:19092"]
+    mem_limit: 850m
+    healthcheck:
+      test: [CMD-SHELL, '/opt/kafka/bin/kafka-topics.sh --bootstrap-server localhost:9092 --list >/dev/null']
+      interval: 15s
+      retries: 20
+  clickhouse:
+    logging: *logging
+    image: clickhouse/clickhouse-server:25.8.12-alpine@sha256:748db0f759216ac0dce8784f22fcfba1284c70874ebcc922a27998cb4e3de347
+    environment:
+      CLICKHOUSE_DB: quantos
+      CLICKHOUSE_USER: quantos
+      CLICKHOUSE_PASSWORD: ${CONTEST_PASSWORD}
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+      - ./deploy/contest/clickhouse-memory.xml:/etc/clickhouse-server/config.d/memory.xml:ro
+      - ./deploy/contest/clickhouse-users.xml:/etc/clickhouse-server/users.d/quantos-memory.xml:ro
+    ports: ["127.0.0.1:18123:8123"]
+    mem_limit: 2g
+    healthcheck:
+      test: [CMD-SHELL, 'clickhouse-client --user quantos --password "$$CLICKHOUSE_PASSWORD" --query "SELECT 1"']
+      interval: 10s
+      retries: 20
+  minio:
+    logging: *logging
+    image: quantos-minio:2025-10-15-source
+    build:
+      context: .
+      dockerfile: deploy/contest/Dockerfile.minio
+    environment:
+      MINIO_ROOT_USER: quantos
+      MINIO_ROOT_PASSWORD: ${CONTEST_PASSWORD}
+    volumes: [minio_data:/data]
+    ports: ["127.0.0.1:19000:9000"]
+    mem_limit: 512m
+    healthcheck:
+      test: [CMD, curl, -f, http://localhost:9000/minio/health/live]
+      interval: 10s
+      retries: 20
+  jobmanager:
+    restart: unless-stopped
+    logging: *logging
+    image: quantos-flink:local
+    build:
+      context: .
+      dockerfile: services/flink-features/Dockerfile
+    command: standalone-job --job-classname io.quantos.MarketFeatures
+    environment: &flink-env
+      AWS_ACCESS_KEY_ID: quantos
+      AWS_SECRET_ACCESS_KEY: ${CONTEST_PASSWORD}
+      FLINK_PROPERTIES: |
+        jobmanager.rpc.address: jobmanager
+        jobmanager.memory.process.size: 768m
+        taskmanager.memory.process.size: 1024m
+        taskmanager.numberOfTaskSlots: 1
+        parallelism.default: 1
+        state.checkpoints.dir: s3://quantos/checkpoints
+        state.savepoints.dir: s3://quantos/savepoints
+        s3.endpoint: http://minio:9000
+        s3.path.style.access: true
+        execution.checkpointing.externalized-checkpoint-retention: RETAIN_ON_CANCELLATION
+        restart-strategy.type: fixed-delay
+        restart-strategy.fixed-delay.attempts: 20
+        restart-strategy.fixed-delay.delay: 10s
+    depends_on:
+      bootstrap: {condition: service_completed_successfully}
+    ports: ["127.0.0.1:18081:8081"]
+    mem_limit: 1000m
+  taskmanager:
+    restart: unless-stopped
+    logging: *logging
+    image: quantos-flink:local
+    command: taskmanager
+    environment: *flink-env
+    depends_on: [jobmanager]
+    mem_limit: 1300m
+  bootstrap:
+    <<: *app
+    command: [python, -m, marketlab.distributed, bootstrap]
+    restart: 'no'
+    depends_on:
+      mysql: {condition: service_healthy}
+      redis: {condition: service_healthy}
+      kafka: {condition: service_healthy}
+      clickhouse: {condition: service_healthy}
+      minio: {condition: service_healthy}
+  feature-model:
+    <<: *app
+    command: [python, -m, uvicorn, marketlab.service:app, --host, 0.0.0.0, --port, "8000"]
+    environment:
+      <<: *app-env
+      CONTEST_SERVICE_ROLE: features
+    depends_on:
+      bootstrap: {condition: service_completed_successfully}
+    mem_limit: 450m
+  alerts:
+    <<: *app
+    command: [python, -m, uvicorn, marketlab.service:app, --host, 0.0.0.0, --port, "8000"]
+    environment:
+      <<: *app-env
+      CONTEST_SERVICE_ROLE: alerts
+    depends_on:
+      bootstrap: {condition: service_completed_successfully}
+    mem_limit: 250m
+  gateway:
+    image: quantos-gateway:local
+    build:
+      context: .
+      dockerfile: services/gateway/Dockerfile
+    logging: *logging
+    init: true
+    env_file: [deploy/contest/secrets.env]
+    ports: ["127.0.0.1:18080:8080"]
+    depends_on:
+      data-api: {condition: service_healthy}
+      feature-model: {condition: service_started}
+      alerts: {condition: service_started}
+    restart: unless-stopped
+    mem_limit: 512m
+  data-api:
+    <<: *app
+    depends_on:
+      bootstrap: {condition: service_completed_successfully}
+    mem_limit: 900m
+    healthcheck:
+      test: [CMD, python, -c, "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health',timeout=3).read()"]
+      interval: 10s
+      retries: 10
+volumes:
+  mysql_data:
+  kafka_data:
+  clickhouse_data:
+  minio_data:

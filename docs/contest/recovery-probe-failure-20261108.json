@@ -1,0 +1,9 @@
+{
+  "run_id": "8743b3e19ab4446a9ab56b2f",
+  "stage": "post-recovery quarantine probe",
+  "failure": "ClickHouse wide payload FINAL sorted query exceeded 256MiB query limit as archived runs grew; captured before probe injection",
+  "flink_job_after_failure": "RUNNING, no root exception",
+  "correction": "Read last committed feature identity from indexed MySQL, then the exact original normalized Parquet observation; do not widen query memory limit or remove retained facts.",
+  "paid_calls": 0,
+  "additional_probe_correction": "Resolve the broker end offset before producing and explicitly seek to it. A position() attempt busy-waited in the diagnostic client; that exact probe process was terminated. Probes now have an in-container timeout; the application worker offset guard is unchanged."
+}

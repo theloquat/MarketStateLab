@@ -1,0 +1,104 @@
+{
+  "python": {
+    "tests": 30,
+    "percent": 50.0
+  },
+  "frontend": {
+    "tests": 8,
+    "coverage": {
+      "lines": {
+        "total": 2202,
+        "covered": 1580,
+        "skipped": 0,
+        "pct": 71.75
+      },
+      "statements": {
+        "total": 2202,
+        "covered": 1580,
+        "skipped": 0,
+        "pct": 71.75
+      },
+      "functions": {
+        "total": 96,
+        "covered": 38,
+        "skipped": 0,
+        "pct": 39.58
+      },
+      "branches": {
+        "total": 260,
+        "covered": 183,
+        "skipped": 0,
+        "pct": 70.38
+      },
+      "branchesTrue": {
+        "total": 0,
+        "covered": 0,
+        "skipped": 0,
+        "pct": "Unknown"
+      }
+    }
+  },
+  "java": {
+    "flink": {
+      "tests": 8,
+      "counters": {
+        "INSTRUCTION": {
+          "missed": 1226,
+          "covered": 1154
+        },
+        "BRANCH": {
+          "missed": 127,
+          "covered": 107
+        },
+        "LINE": {
+          "missed": 262,
+          "covered": 182,
+          "percent": 40.990990990990994
+        },
+        "COMPLEXITY": {
+          "missed": 94,
+          "covered": 62
+        },
+        "METHOD": {
+          "missed": 19,
+          "covered": 20
+        },
+        "CLASS": {
+          "missed": 3,
+          "covered": 5
+        }
+      }
+    },
+    "gateway": {
+      "tests": 3,
+      "counters": {
+        "INSTRUCTION": {
+          "missed": 320,
+          "covered": 1190
+        },
+        "BRANCH": {
+          "missed": 71,
+          "covered": 95
+        },
+        "LINE": {
+          "missed": 74,
+          "covered": 260,
+          "percent": 77.8443113772455
+        },
+        "COMPLEXITY": {
+          "missed": 74,
+          "covered": 52
+        },
+        "METHOD": {
+          "missed": 13,
+          "covered": 30
+        },
+        "CLASS": {
+          "missed": 1,
+          "covered": 7
+        }
+      }
+    }
+  },
+  "llm_calls_in_tests": 0
+}

@@ -1,0 +1,29 @@
+{
+  "run_id": "fd556c3c3de1426ea5422444",
+  "killed_services": [
+    "taskmanager",
+    "feature-model",
+    "alerts"
+  ],
+  "signal": "SIGKILL",
+  "partial_source_records": 35000,
+  "recovery_seconds_including_catchup": 35.31714463233948,
+  "final": {
+    "status": "features_completed",
+    "sent": 64652,
+    "states": 861,
+    "pending": 0
+  },
+  "quarantine": {
+    "reasons": [
+      "conflicting_revision",
+      "invalid_date",
+      "invalid_json",
+      "late"
+    ],
+    "duplicate_emitted": false
+  },
+  "healthy_flink_jobs": 1,
+  "parity_report": "compiled-recovery-20261108-211039-parity.json",
+  "paid_calls": 0
+}

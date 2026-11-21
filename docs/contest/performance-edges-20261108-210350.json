@@ -1,0 +1,22 @@
+{
+  "redis": {
+    "reads": 1000,
+    "payload_bytes": 3296,
+    "scope": "actual hot state GET plus JSON decode from host over Docker port",
+    "p50_ms": 0.2290625,
+    "p95_ms": 0.3696937499999997,
+    "p99_ms": 0.88299108
+  },
+  "websocket": {
+    "connections": 120,
+    "messages": 2400,
+    "expected_messages": 2400,
+    "minimum_messages_per_user": 20,
+    "errors": [],
+    "p50_ms": 12.2405,
+    "p95_ms": 43.926749999999984,
+    "p99_ms": 141.25837999999993,
+    "scope": "synthetic transport envelope containing genuine state-sized payload; Redis publish -> Python/Java WS -> host clients; excludes model/SQL/Kafka"
+  },
+  "paid_calls": 0
+}

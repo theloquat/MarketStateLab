@@ -1,0 +1,6329 @@
+{
+  "outer_zip": "data/第一届上海科技大学金融科技竞赛数据集.zip",
+  "inner_zip": "/private/tmp/quantos-contest-audit-20261029/official-inner.zip",
+  "entries": [
+    {
+      "path": "上科大数据合集/",
+      "bytes": 0,
+      "compressed_bytes": 0,
+      "directory": true
+    },
+    {
+      "path": "上科大数据合集/全球资金信息摘要.zip",
+      "bytes": 3105934,
+      "compressed_bytes": 2864432,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/公众号.xlsx",
+      "bytes": 960017,
+      "compressed_bytes": 918471,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/商品期货日成交额.xlsx",
+      "bytes": 43440,
+      "compressed_bytes": 40952,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/指标集1_数据.xlsx",
+      "bytes": 2608092,
+      "compressed_bytes": 2328104,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/新闻.zip",
+      "bytes": 342178641,
+      "compressed_bytes": 342215404,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/日历数据.xlsx",
+      "bytes": 8079949,
+      "compressed_bytes": 8077675,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/",
+      "bytes": 0,
+      "compressed_bytes": 0,
+      "directory": true
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/Brent原油.csv",
+      "bytes": 152852,
+      "compressed_bytes": 38932,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/COMEX白银期货.csv",
+      "bytes": 166244,
+      "compressed_bytes": 39914,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/COMEX铜期货.csv",
+      "bytes": 126919,
+      "compressed_bytes": 30452,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/COMEX黄金期货.csv",
+      "bytes": 168893,
+      "compressed_bytes": 42390,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/NYMEX天然气.csv",
+      "bytes": 162618,
+      "compressed_bytes": 40820,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/WTI原油.csv",
+      "bytes": 173494,
+      "compressed_bytes": 43963,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中国10年国债收益率.csv",
+      "bytes": 114209,
+      "compressed_bytes": 29062,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中国1年国债收益率.csv",
+      "bytes": 114014,
+      "compressed_bytes": 29216,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中国30年国债收益率.csv",
+      "bytes": 113392,
+      "compressed_bytes": 27298,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中国5年国债收益率.csv",
+      "bytes": 114459,
+      "compressed_bytes": 30071,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中证1000.csv",
+      "bytes": 110598,
+      "compressed_bytes": 36838,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中证500.csv",
+      "bytes": 110600,
+      "compressed_bytes": 36535,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/中证红利.csv",
+      "bytes": 110552,
+      "compressed_bytes": 35881,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/代码对照.csv",
+      "bytes": 5769,
+      "compressed_bytes": 1801,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/伦敦金现货指数.csv",
+      "bytes": 180397,
+      "compressed_bytes": 46384,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/创业板指.csv",
+      "bytes": 82481,
+      "compressed_bytes": 26695,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/德国10年期国债收益率.csv",
+      "bytes": 124929,
+      "compressed_bytes": 25184,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/恒生指数.csv",
+      "bytes": 232110,
+      "compressed_bytes": 69801,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/恒生科技指数.csv",
+      "bytes": 55484,
+      "compressed_bytes": 17284,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/新兴市场指数.csv",
+      "bytes": 220169,
+      "compressed_bytes": 74113,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/日本10年期国债收益率.csv",
+      "bytes": 176653,
+      "compressed_bytes": 40600,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/日经225.csv",
+      "bytes": 243776,
+      "compressed_bytes": 74429,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/有色金属指数.csv",
+      "bytes": 37392,
+      "compressed_bytes": 10700,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/标普500.csv",
+      "bytes": 273589,
+      "compressed_bytes": 75341,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/欧元兑美元.csv",
+      "bytes": 244429,
+      "compressed_bytes": 57628,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/比特币BTC.csv",
+      "bytes": 65553,
+      "compressed_bytes": 21049,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/沪深300.csv",
+      "bytes": 125691,
+      "compressed_bytes": 40446,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/泛欧斯托克50.csv",
+      "bytes": 74603,
+      "compressed_bytes": 22065,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/波罗的海干散货指数BDI.csv",
+      "bytes": 177780,
+      "compressed_bytes": 41599,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/澳元兑美元.csv",
+      "bytes": 226324,
+      "compressed_bytes": 51745,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/科创50.csv",
+      "bytes": 33089,
+      "compressed_bytes": 10771,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/纳斯达克100.csv",
+      "bytes": 206966,
+      "compressed_bytes": 61249,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/美元兑日元.csv",
+      "bytes": 228550,
+      "compressed_bytes": 55269,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/美元兑离岸人民币.csv",
+      "bytes": 66426,
+      "compressed_bytes": 16631,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/美元指数DXY.csv",
+      "bytes": 260235,
+      "compressed_bytes": 64938,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/美国10年期国债收益率.csv",
+      "bytes": 239316,
+      "compressed_bytes": 51059,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/英国10年期国债收益率.csv",
+      "bytes": 135166,
+      "compressed_bytes": 36329,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/英国富时100.csv",
+      "bytes": 183553,
+      "compressed_bytes": 52468,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/豆粕.csv",
+      "bytes": 118974,
+      "compressed_bytes": 27200,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/目标资产价格变量/道琼斯工业平均.csv",
+      "bytes": 285490,
+      "compressed_bytes": 84717,
+      "directory": false
+    },
+    {
+      "path": "上科大数据合集/科技.csv",
+      "bytes": 31319167,
+      "compressed_bytes": 9509196,
+      "directory": false
+    }
+  ],
+  "total_bytes": 394338978,
+  "nested_archives": {
+    "新闻.zip": {
+      "entries": [
+        {
+          "path": "无标题.csv",
+          "bytes": 1916430624,
+          "compressed_bytes": 342178443,
+          "directory": false
+        }
+      ],
+      "total_bytes": 1916430624
+    },
+    "全球资金信息摘要.zip": {
+      "entries": [
+        {
+          "path": "上科大版本摘要/",
+          "bytes": 0,
+          "compressed_bytes": 0,
+          "directory": true
+        },
+        {
+          "path": "上科大版本摘要/2024-05-02-机构H-资金流看全球-2024年4月回顾.md",
+          "bytes": 2543,
+          "compressed_bytes": 1343,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-06-23-机构E-季节性美国资金流入支持股票基金资金流.md",
+          "bytes": 1593,
+          "compressed_bytes": 841,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-09-28-机构H-资金流与配置-主客场.md",
+          "bytes": 3104,
+          "compressed_bytes": 1370,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-11-01-机构E-EM基金赎回更多.md",
+          "bytes": 2667,
+          "compressed_bytes": 1222,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-11-10-机构C-中国内地资金再次回撤.md",
+          "bytes": 2845,
+          "compressed_bytes": 1232,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-11-15-机构E-美国在资金流量和绩效表现方面继续领先.md",
+          "bytes": 2330,
+          "compressed_bytes": 1117,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-11-19-机构A-资金流动推动大选后美元反弹.md",
+          "bytes": 3015,
+          "compressed_bytes": 1317,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-12-01-机构E-新兴市场股票和债券基金的资金外流.md",
+          "bytes": 2031,
+          "compressed_bytes": 909,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-12-05-机构H-中国和中国香港主动型长期投资经理人的持仓情况.md",
+          "bytes": 3072,
+          "compressed_bytes": 1253,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-12-08-机构A-系统化资金流监测-下周CTA可能会对UST、日元和ESTX50进行更大规模的配置调整.md",
+          "bytes": 2535,
+          "compressed_bytes": 1380,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-12-16-机构A-系统化资金流监测-趋势跟踪者超配美国股票和美元，目前平仓风险较低.md",
+          "bytes": 2880,
+          "compressed_bytes": 1462,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2024-12-22-机构A-亚洲（中国除外）资金流动：美元走强带来的不利因素.md",
+          "bytes": 2134,
+          "compressed_bytes": 951,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-01-机构E-行业资金流向快报：年底经理人资金流向指向科技行业.md",
+          "bytes": 2590,
+          "compressed_bytes": 1100,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-09-机构E-亚洲资金流跟踪.md",
+          "bytes": 6051,
+          "compressed_bytes": 1955,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-11-机构B-新兴市场货币之路：这一年开始变得充满挑战.md",
+          "bytes": 2660,
+          "compressed_bytes": 1273,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-12-机构E-DM股票和欧洲货币市场基金获得流入.md",
+          "bytes": 2728,
+          "compressed_bytes": 1200,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-16-机构E-资产管理公司和对冲基金出售科技股.md",
+          "bytes": 2716,
+          "compressed_bytes": 1187,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-19-机构B-EM资金流周报-随着新任总统的就职典礼即将到来，债券资金流出速度放缓.md",
+          "bytes": 3234,
+          "compressed_bytes": 1210,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-20-机构A-头存在科技，而非中国.md",
+          "bytes": 4562,
+          "compressed_bytes": 1826,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-26-机构A-持续美元多头平仓，同时股票购买增加，导致CTAs面临风险.md",
+          "bytes": 3428,
+          "compressed_bytes": 1612,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-29-机构E-去年11月的流入放缓.md",
+          "bytes": 3151,
+          "compressed_bytes": 1461,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-01-31-机构B-EM资金流周报-EM资金流动周报：黑暗中的微光：在关税阴影下，小型新兴市场债券流入显现.md",
+          "bytes": 3770,
+          "compressed_bytes": 1414,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-03-机构A-趋势跟随者下周可能会增加对EUROSTOXX50和黄金的多头头寸.md",
+          "bytes": 4000,
+          "compressed_bytes": 1732,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-05-机构H-资金流和头寸指南.md",
+          "bytes": 3828,
+          "compressed_bytes": 1429,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-09-机构C-外资流出以台湾为主；共同基金在过去一个季度从硬科技转向软科技；对冲基金在一月份适度增持中国，但敞口仍然较低.md",
+          "bytes": 3485,
+          "compressed_bytes": 1584,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-11-机构J-CTA头寸和资金流双周报.md",
+          "bytes": 3321,
+          "compressed_bytes": 1797,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-14-机构E-股票基金第二周净流出.md",
+          "bytes": 2613,
+          "compressed_bytes": 1324,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-15-机构B-新兴市场流动周报：贸易风吹起：在关税威胁下，新兴市场债券基金出现小幅流出.md",
+          "bytes": 5480,
+          "compressed_bytes": 2201,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-20-机构E-所有配置者的区块在哪里？适度削减欧洲股票的低配比例.md",
+          "bytes": 3278,
+          "compressed_bytes": 1624,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-22-机构E-资金流入回归发达市场股票基金.md",
+          "bytes": 1937,
+          "compressed_bytes": 969,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-23-机构C-对欧洲的稳定外国需求.md",
+          "bytes": 2562,
+          "compressed_bytes": 1186,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-27-机构B-中德股票的资金流动趋势积极.md",
+          "bytes": 4728,
+          "compressed_bytes": 1907,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-02-28-机构C-持续增长的久期差异.md",
+          "bytes": 3532,
+          "compressed_bytes": 1415,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-06-机构H-资金流动与持仓指南.md",
+          "bytes": 3394,
+          "compressed_bytes": 1547,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-07-机构E-欧洲基金连续流入4周.md",
+          "bytes": 2011,
+          "compressed_bytes": 935,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-09-机构D-投资者头寸与资金流报告-2025年第十周：小幅低配.md",
+          "bytes": 2472,
+          "compressed_bytes": 1193,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-15-机构B-EM 资金流动：被动投资撤退使新兴市场陷入亏损.md",
+          "bytes": 3115,
+          "compressed_bytes": 1489,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-19-机构E-行业资金流动快讯更新：资产管理公司购买消费；整体资金流动平淡.md",
+          "bytes": 2218,
+          "compressed_bytes": 1089,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-21-机构C-对欧洲股票的持续需求.md",
+          "bytes": 2430,
+          "compressed_bytes": 1223,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-03-29-机构E-对欧洲ETF的流入持续.md",
+          "bytes": 2469,
+          "compressed_bytes": 1206,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-01-机构F-资金流入急剧放缓.md",
+          "bytes": 1992,
+          "compressed_bytes": 1121,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-05-机构C-在互惠关税宣布后，韩国引领亚洲出现大量外资抛售；南向通录得强劲的每周 80 亿美元流入；对冲基金在 3 月份降低了总风险敞口.md",
+          "bytes": 2290,
+          "compressed_bytes": 1218,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-08-机构I-防御.md",
+          "bytes": 2240,
+          "compressed_bytes": 1194,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-09-机构E-两个时间维度的故事——短期反弹，但关税前景不明朗.md",
+          "bytes": 2175,
+          "compressed_bytes": 1320,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-14-机构E-巨额资金流入美国和中国 ETF，出乎意料.md",
+          "bytes": 2451,
+          "compressed_bytes": 1255,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-14-机构H-资金流向简报.md",
+          "bytes": 2058,
+          "compressed_bytes": 1182,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-19-机构C-台湾主导的外资抛售；南向资金买入力度回落至 30 亿美元；国家队买入；关注 ADR 退市风险.md",
+          "bytes": 2409,
+          "compressed_bytes": 1273,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-21-机构B-新兴市场资金流动周报：尚未脱离困境：新兴市场债券基金四月持续大规模资金流出.md",
+          "bytes": 1955,
+          "compressed_bytes": 967,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-26-机构B-EM货币轨迹：新兴市场资金流在连续四周抛售后迎来喘息机会.md",
+          "bytes": 1839,
+          "compressed_bytes": 998,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-28-机构I-稳定迹象.md",
+          "bytes": 2276,
+          "compressed_bytes": 1238,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-04-29-机构E-行业资金流速报：过去两个月消费品行业资金流领先；科技行业正在复苏.md",
+          "bytes": 2124,
+          "compressed_bytes": 1088,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-03-机构D-资产配置：第一季度收益观点：增长仅略有放缓.md",
+          "bytes": 2310,
+          "compressed_bytes": 1441,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-04-机构E-随着市场保持积极，资金流入持续改善.md",
+          "bytes": 1903,
+          "compressed_bytes": 938,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-07-机构D-大美元重新配置故事的起点.md",
+          "bytes": 2090,
+          "compressed_bytes": 1187,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-09-机构B-欧洲信贷研究 2025年5月9日 欧洲信贷基金资金流向周报.md",
+          "bytes": 2025,
+          "compressed_bytes": 781,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-09-机构D-再谈美国资金流向——本土偏好需谨记.md",
+          "bytes": 2063,
+          "compressed_bytes": 1079,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-09-机构G-日本投资者会否减持美国资产和美元？.md",
+          "bytes": 2041,
+          "compressed_bytes": 1012,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-09-机构J-2025年第一季度投资者仓位更新——投资者整体减少对华低配.md",
+          "bytes": 2152,
+          "compressed_bytes": 976,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-11-机构A-系统性资金流向监测.md",
+          "bytes": 2719,
+          "compressed_bytes": 1350,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-11-机构B-日本固定收益市场周报.md",
+          "bytes": 2277,
+          "compressed_bytes": 1394,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-11-机构C-抵押贷款交易.md",
+          "bytes": 2304,
+          "compressed_bytes": 1545,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-11-机构C-韩国每周启动.md",
+          "bytes": 2427,
+          "compressed_bytes": 1450,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-11-机构D-欧洲政府债券持仓：你需要知道的一切.md",
+          "bytes": 2371,
+          "compressed_bytes": 1217,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-12-机构A-美国利率观察.md",
+          "bytes": 2533,
+          "compressed_bytes": 1280,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-12-机构C-母子公司上市问题重回焦点.md",
+          "bytes": 2313,
+          "compressed_bytes": 1448,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-12-机构D-德意志银行研究 全球外汇 CORAX：德意志银行货币流动.md",
+          "bytes": 2145,
+          "compressed_bytes": 1070,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-12-机构H-中美贸易谈判取得重大进展——利好市场情绪与资金流.md",
+          "bytes": 1805,
+          "compressed_bytes": 973,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-13-机构H-南向交易追踪.md",
+          "bytes": 2370,
+          "compressed_bytes": 1141,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-13-机构I-困境已解——明确的上行风险.md",
+          "bytes": 2163,
+          "compressed_bytes": 1291,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-14-机构A-拉美在回报率拼布图中表现亮眼；外资流入回升.md",
+          "bytes": 2478,
+          "compressed_bytes": 1365,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-14-机构F-新台币 – 是时候看空其近期涨势了.md",
+          "bytes": 2182,
+          "compressed_bytes": 1173,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-14-机构J-外汇图表集：美元与短期驱动因素再趋同.md",
+          "bytes": 1699,
+          "compressed_bytes": 967,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-15-机构B-四月固定收益大跌.md",
+          "bytes": 2245,
+          "compressed_bytes": 1267,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-15-机构C-亚洲及新兴市场策略：MSCI 2025年5月指数审议及资金流向影响.md",
+          "bytes": 323,
+          "compressed_bytes": 264,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-15-机构G-市场可能担忧美元走弱的“默契”协议.md",
+          "bytes": 2182,
+          "compressed_bytes": 1267,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-17-机构A-利差能走多低？.md",
+          "bytes": 2002,
+          "compressed_bytes": 1200,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-17-机构B-日元头寸比美元头寸更具风险.md",
+          "bytes": 1875,
+          "compressed_bytes": 1000,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-17-机构C-TIC数据：外国投资者三月净买入美国国债.md",
+          "bytes": 1794,
+          "compressed_bytes": 906,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-17-机构C-每周资金流向：买入巴西.md",
+          "bytes": 2086,
+          "compressed_bytes": 1116,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-17-机构D-美国与海湾国家交易的更广泛信号.md",
+          "bytes": 2079,
+          "compressed_bytes": 1185,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-17-机构E-PULSE 监测：令人不安的数据.md",
+          "bytes": 2133,
+          "compressed_bytes": 1304,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-19-机构A-全球股票仓位：是反向信号吗？.md",
+          "bytes": 2792,
+          "compressed_bytes": 1510,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-19-机构C-资本市场仪表板五月检视：交易所交易量放缓，固定收益资金流强劲，以及发起人支持的并购交易量疲软.md",
+          "bytes": 2751,
+          "compressed_bytes": 1610,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-19-机构E-日本国际收支（2025年第一季度）：因外国投资者抛售而恶化.md",
+          "bytes": 1817,
+          "compressed_bytes": 984,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-19-机构H-跨资产聚焦 _ 全球.md",
+          "bytes": 2189,
+          "compressed_bytes": 1360,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-20-机构A-G10外汇企业市场敞口.md",
+          "bytes": 1731,
+          "compressed_bytes": 919,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-20-机构A-资产管理公司近期投资者会议的六大买方另类投资主题：BX、BAM、APO、KKR、TPG行业概览.md",
+          "bytes": 2614,
+          "compressed_bytes": 1588,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-20-机构D-外国购买美国国债的TIC数据上升.md",
+          "bytes": 1639,
+          "compressed_bytes": 938,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-20-机构G-跨资产：日本期权市场预示日本股市易受日元升值影响.md",
+          "bytes": 1809,
+          "compressed_bytes": 1062,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-20-机构I-新机遇.md",
+          "bytes": 2189,
+          "compressed_bytes": 1317,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-22-机构D-美国财政风险对美元的影响可能比国债更糟.md",
+          "bytes": 2153,
+          "compressed_bytes": 1086,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-22-机构E-美国固定收益市场的外资流动.md",
+          "bytes": 3682,
+          "compressed_bytes": 1337,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-23-机构H-ETP投资者规避美元.md",
+          "bytes": 1812,
+          "compressed_bytes": 992,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-24-机构A-全球新兴市场资金流向研讨：新兴市场资金持续流入.md",
+          "bytes": 2321,
+          "compressed_bytes": 1226,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-24-机构A-美国利率观察：私人养老基金再平衡更新——再平衡需求方向粗略估计（2025年5月23日）.md",
+          "bytes": 2943,
+          "compressed_bytes": 1279,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-24-机构C-布局新兴市场股票的尾部上行机遇.md",
+          "bytes": 3226,
+          "compressed_bytes": 1793,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-24-机构D-投资者仓位与资金流向.md",
+          "bytes": 3601,
+          "compressed_bytes": 1861,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-27-机构A-流动性跨境资金流.md",
+          "bytes": 5576,
+          "compressed_bytes": 2437,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-27-机构C-中国保险：近期股价走强，仍需精选；买入中国人寿H股、中国平安及中国人保财险.md",
+          "bytes": 7600,
+          "compressed_bytes": 3394,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-27-机构D-真实货币投资者主导美元抛售.md",
+          "bytes": 6533,
+          "compressed_bytes": 2321,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-27-机构E-美国多资产策略：MBS与国债配置在四月创下近期新高.md",
+          "bytes": 5000,
+          "compressed_bytes": 2259,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-28-机构B-商品市场持仓与资金流向.md",
+          "bytes": 10862,
+          "compressed_bytes": 4012,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-29-机构C-美元贬值——无需资金回流.md",
+          "bytes": 8377,
+          "compressed_bytes": 3721,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-29-机构F-日本资金稳定流向美国投资级债券.md",
+          "bytes": 9419,
+          "compressed_bytes": 3418,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-29-机构H-外国资产无NOK连锁益处.md",
+          "bytes": 7867,
+          "compressed_bytes": 3318,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-30-机构B-新兴市场资金追踪.md",
+          "bytes": 10027,
+          "compressed_bytes": 4030,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-31-机构A-聚焦欧元：欧洲固定收益资金持续强劲流入.md",
+          "bytes": 6681,
+          "compressed_bytes": 2462,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-31-机构C-高盛中国每周启动.md",
+          "bytes": 10521,
+          "compressed_bytes": 4198,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-05-31-机构D-不上不下.md",
+          "bytes": 7377,
+          "compressed_bytes": 3027,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-02-机构A-预测G10外汇：更新 预测最重要的价格.md",
+          "bytes": 10279,
+          "compressed_bytes": 4437,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-02-机构C-法国国债的十字路口.md",
+          "bytes": 8663,
+          "compressed_bytes": 3835,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-02-机构D-新台币：台北札记.md",
+          "bytes": 7586,
+          "compressed_bytes": 3415,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-03-机构A-美银证券股票客户资金流向趋势.md",
+          "bytes": 6032,
+          "compressed_bytes": 2569,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-03-机构D-贸易政策缓和后的资产配置.md",
+          "bytes": 9022,
+          "compressed_bytes": 4116,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-04-机构B-日本量化股票观点.md",
+          "bytes": 7344,
+          "compressed_bytes": 3159,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-04-机构D-这个问题.md",
+          "bytes": 5853,
+          "compressed_bytes": 2495,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-04-机构E-ETF月度资金流向分析：2025年5月.md",
+          "bytes": 6187,
+          "compressed_bytes": 2664,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-05-机构B-评估资本流动税.md",
+          "bytes": 9594,
+          "compressed_bytes": 4004,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-07-机构B-摩根大通全球市场策略：新兴市场资金流向追踪 (2025年6月6日).md",
+          "bytes": 6871,
+          "compressed_bytes": 2794,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-07-机构C-新兴市场每周资金流向监测.md",
+          "bytes": 7633,
+          "compressed_bytes": 2986,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-07-机构C-财政风险如何影响美元.md",
+          "bytes": 10062,
+          "compressed_bytes": 4122,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-07-机构D-策略更新：最短波动率冲击后的投资者仓位与资金流向.md",
+          "bytes": 5914,
+          "compressed_bytes": 2710,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-07-机构E-美国利率周报：赤字悲喜剧.md",
+          "bytes": 14116,
+          "compressed_bytes": 6139,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-09-机构A-流动性洞察：官方部门G10外汇流动与相对头寸.md",
+          "bytes": 5148,
+          "compressed_bytes": 2248,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-09-机构D-发达市场对冲比率与货币敞口概览.md",
+          "bytes": 9811,
+          "compressed_bytes": 3885,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-09-机构G-全球市场研究 日元日内评论 2025年6月9日.md",
+          "bytes": 9677,
+          "compressed_bytes": 4155,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-09-机构J-瑞银投资研究：香港策略——2025年不确定性加剧.md",
+          "bytes": 12943,
+          "compressed_bytes": 5693,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-10-机构B-美元的899个难题.md",
+          "bytes": 8876,
+          "compressed_bytes": 3619,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-11-机构A-资金流向秀.md",
+          "bytes": 10627,
+          "compressed_bytes": 4849,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-13-机构B-摩根大通全球市场策略.md",
+          "bytes": 10686,
+          "compressed_bytes": 4319,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-13-机构F-公共政策899条款：不可貌相.md",
+          "bytes": 8201,
+          "compressed_bytes": 3514,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-13-机构G-全球市场研究 2025年6月12日 外汇策略交易 — 全球研究分析师继日本财务省数据后继续做空美元_日元.md",
+          "bytes": 6716,
+          "compressed_bytes": 2696,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-15-机构B-中东及北非地区地缘政治风险升高，市场尚未充分定价.md",
+          "bytes": 6013,
+          "compressed_bytes": 2834,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-15-机构C-每周资金流向：涌向新兴市场本币利率.md",
+          "bytes": 6895,
+          "compressed_bytes": 2694,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-15-机构C-高盛新兴市场每周开篇.md",
+          "bytes": 9222,
+          "compressed_bytes": 4052,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-15-机构E-月度新兴市场债券投资组合：做空美元；若无贸易协议 – 则进一步做空美元.md",
+          "bytes": 10989,
+          "compressed_bytes": 4810,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-15-机构J-荷兰养老金固定利率接收操作或已于2024年结束.md",
+          "bytes": 5498,
+          "compressed_bytes": 2583,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-16-机构A-美元兑新台币风波持续.md",
+          "bytes": 6323,
+          "compressed_bytes": 2730,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-16-机构D-关于香港低利率你需要知道的一切.md",
+          "bytes": 11914,
+          "compressed_bytes": 4983,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-16-机构E-通往“金发姑娘”的微妙之路.md",
+          "bytes": 5624,
+          "compressed_bytes": 2423,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-16-机构H-全球跨资产聚焦.md",
+          "bytes": 9757,
+          "compressed_bytes": 3854,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-17-机构B-One资金流向与头寸.md",
+          "bytes": 8408,
+          "compressed_bytes": 3481,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-18-机构B-日本和亚洲的动量效应依然存在：尽管中东风险持续，仍有具技术吸引力的股票买入机会.md",
+          "bytes": 8079,
+          "compressed_bytes": 3677,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-18-机构D-谁真正拥有美国国债？——调整数据中的托管偏差.md",
+          "bytes": 6229,
+          "compressed_bytes": 2575,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-19-机构B-中东和北非地区地缘政治风险上升，市场定价不足（二）.md",
+          "bytes": 8873,
+          "compressed_bytes": 4094,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-19-机构B-摩根大通周中美国短久期更新.md",
+          "bytes": 8339,
+          "compressed_bytes": 3635,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-19-机构C-TIC数据：四月份美国国债仅录得小幅净卖出.md",
+          "bytes": 6466,
+          "compressed_bytes": 2497,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-19-机构F-日本六月资金流动更新：日本养老金再平衡估算.md",
+          "bytes": 7029,
+          "compressed_bytes": 2944,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-20-机构A-追踪资金流：Beta足矣，信贷及新兴市场债务资金流入加速.md",
+          "bytes": 6829,
+          "compressed_bytes": 2799,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-20-机构D-人民币：更多资金流入迹象.md",
+          "bytes": 9847,
+          "compressed_bytes": 4087,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-20-机构G-欧元资金流仅显示小幅回流 全球外汇策略.md",
+          "bytes": 5033,
+          "compressed_bytes": 2090,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-20-机构I-全球债券流动罗盘：固定收益利率与全球减持.md",
+          "bytes": 7039,
+          "compressed_bytes": 2970,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-22-机构B-别拦我：新兴市场债券基金录得自2024年9月以来最大单周资金流入.md",
+          "bytes": 7370,
+          "compressed_bytes": 2939,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-22-机构C-高盛新兴市场每周简报.md",
+          "bytes": 8438,
+          "compressed_bytes": 3572,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-22-机构D-投资者仓位与资金流向：仓位下降，资金流入回升.md",
+          "bytes": 6614,
+          "compressed_bytes": 2836,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-22-机构G-外汇洞察：亚洲（日本除外）外汇——四月美国资产资金流出；高频数据显示美国ETF周度资金流出.md",
+          "bytes": 6347,
+          "compressed_bytes": 2581,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-23-机构A-从美国到欧洲的大轮动.md",
+          "bytes": 10600,
+          "compressed_bytes": 4540,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-23-机构F-银行需求回升.md",
+          "bytes": 11913,
+          "compressed_bytes": 4828,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-23-机构G-中国利率与外汇：五月份离岸投资者减持债券.md",
+          "bytes": 8383,
+          "compressed_bytes": 3585,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-25-机构A-人民币将保持在‘舒适区’.md",
+          "bytes": 7209,
+          "compressed_bytes": 3036,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-25-机构B-One资金流与头寸.md",
+          "bytes": 11055,
+          "compressed_bytes": 4649,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-25-机构F-仓位抬升，但未狂热.md",
+          "bytes": 10269,
+          "compressed_bytes": 4218,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-26-机构F-外汇与新兴市场宏观策略季度展望：美元对冲：A.md",
+          "bytes": 11424,
+          "compressed_bytes": 4577,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-27-机构A-六月外汇再平衡——资金流入美元和英镑，流出欧元和新兴市场.md",
+          "bytes": 5892,
+          "compressed_bytes": 2787,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-27-机构A-热浪遭遇债券.md",
+          "bytes": 5757,
+          "compressed_bytes": 2581,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-27-机构B-新兴市场资金追踪：被动型基金持续涌入，而主动型基金则选择离场.md",
+          "bytes": 7882,
+          "compressed_bytes": 3596,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-27-机构C-周度资金流向趋于平缓.md",
+          "bytes": 5805,
+          "compressed_bytes": 2693,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-27-机构E-中国金融股买盘激增，如何布局.md",
+          "bytes": 10819,
+          "compressed_bytes": 5007,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-27-机构F-新兴市场季刊：保持警醒.md",
+          "bytes": 4313,
+          "compressed_bytes": 2027,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-30-机构A-流动性跨境资金流.md",
+          "bytes": 6306,
+          "compressed_bytes": 3045,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-30-机构A-美国利率观察：曲线仓位回落.md",
+          "bytes": 5713,
+          "compressed_bytes": 2569,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-30-机构B-新兴市场债券基金录得逾两年来最大单周资金流入.md",
+          "bytes": 6192,
+          "compressed_bytes": 2814,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-30-机构C-新兴市场每周速览.md",
+          "bytes": 7651,
+          "compressed_bytes": 3448,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-06-30-机构D-市场创历史新高，但仓位仍然偏低.md",
+          "bytes": 6612,
+          "compressed_bytes": 3193,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-01-机构B-One资金流向与头寸分析：伊以关系缓和后石油_能源产品遭抛售；国际股票、信贷、黄金和加密货币ETF迎来强劲资金流入.md",
+          "bytes": 6449,
+          "compressed_bytes": 3042,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-01-机构H-全球宏观论坛_ 追踪资本流动、货币对冲与欧洲证券化的复苏.md",
+          "bytes": 7460,
+          "compressed_bytes": 3551,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-02-机构J-全球外汇策略FX指南针：不要逆势而为.md",
+          "bytes": 7840,
+          "compressed_bytes": 3805,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-03-机构B-稳定币的扩张空间有多大？：全球债券供需平衡的温和恶化仍意味着收益率曲线存在陡峭化压力.md",
+          "bytes": 6328,
+          "compressed_bytes": 2952,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-03-机构E-新兴市场信贷演示文稿_ 资金流与供给迎接七月.md",
+          "bytes": 8658,
+          "compressed_bytes": 4131,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-04-机构A-系统性资金流向监测：趋势追踪者半场失利，但正重返美股市场.md",
+          "bytes": 7739,
+          "compressed_bytes": 3460,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-04-机构H-中国股票策略：主动型只做多头基金经理在中国_香港的仓位.md",
+          "bytes": 6824,
+          "compressed_bytes": 2929,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-06-机构C-中国每周速览_ MSCI中国指数下跌1%，A股上涨2%；美国取消对华芯片设计软件的出口限制；6月份PMI数据好坏参半.md",
+          "bytes": 7496,
+          "compressed_bytes": 3604,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-07-机构B-新兴市场资金流向周报：现实检验——新兴市场债券基金在连续数周大量流入后出现小幅流出.md",
+          "bytes": 6036,
+          "compressed_bytes": 2715,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-07-机构G-日元流向特别报告：GPIF维持其投资组合再平衡活动.md",
+          "bytes": 5893,
+          "compressed_bytes": 2720,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-07-机构I-全球债券资金流向指南：新兴市场债券再迎夏季升势？.md",
+          "bytes": 6368,
+          "compressed_bytes": 3003,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-08-机构A-日本国际收支：日元资产重定价风险增加.md",
+          "bytes": 5525,
+          "compressed_bytes": 2556,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-08-机构C-外汇焦点：关联外汇表现与资金流动.md",
+          "bytes": 5947,
+          "compressed_bytes": 2872,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-08-机构H-信号、资金流与关键数据：追踪市场情绪、资金流和仓位的关键跨资产指标周报.md",
+          "bytes": 6741,
+          "compressed_bytes": 3229,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-09-机构A-战情室：夏季大挤压.md",
+          "bytes": 4385,
+          "compressed_bytes": 2051,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-10-机构B-流量与流动性：哪些资金流将在下半年支撑股市？.md",
+          "bytes": 8732,
+          "compressed_bytes": 3917,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-10-机构C-2025年第一季度COFER数据：美元储备名义份额保持稳定；瑞士法郎、澳元和日元储备急剧变动.md",
+          "bytes": 5526,
+          "compressed_bytes": 2419,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-10-机构G-外汇洞察：流入美国投资组合资产的资金流依然疲软——股票资金流出对比债券资金流入.md",
+          "bytes": 4039,
+          "compressed_bytes": 1840,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-11-机构G-亚洲（日本除外）利率：摩根大通下调GBI-EM指数10%上限的潜在影响.md",
+          "bytes": 6937,
+          "compressed_bytes": 3196,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-11-机构I-全球债券流动指南_ 固定收益.md",
+          "bytes": 7565,
+          "compressed_bytes": 3318,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-13-机构A-系统性资金流监控：趋势追随者增持铜和全球股票多头头寸.md",
+          "bytes": 7042,
+          "compressed_bytes": 3235,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-13-机构C-新兴市场每周启动：MSCI新兴市场指数周度持平；希腊_韩国领涨；巴西因美国关税消息下跌6%；全球新兴市场基金资金持续流入；我们上调MXEF目标：12个月回报率+11%.md",
+          "bytes": 8240,
+          "compressed_bytes": 3804,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-13-机构E-全球外汇：2025年第一季度世界外汇储备.md",
+          "bytes": 3642,
+          "compressed_bytes": 1766,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-13-机构H-跨境固定收益流量更新：欧洲利率策略.md",
+          "bytes": 6849,
+          "compressed_bytes": 2889,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-14-机构A-美国利率观察：买盘平淡.md",
+          "bytes": 6632,
+          "compressed_bytes": 3096,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-14-机构B-欧洲资金流向追踪：25年第二季度资金流向表明对欧洲基金的偏好超过美国基金.md",
+          "bytes": 7799,
+          "compressed_bytes": 3247,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-14-机构H-观点：再平衡之辩：是否进行多元化投资.md",
+          "bytes": 6311,
+          "compressed_bytes": 2816,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-15-机构A-美银证券股票客户资金流向趋势：连续第三周抛售.md",
+          "bytes": 5543,
+          "compressed_bytes": 2531,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-17-机构B-资金流与流动性：“储蓄过剩”的支柱之一已经减弱.md",
+          "bytes": 7544,
+          "compressed_bytes": 3259,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-17-机构C-新兴市场交易：资金流自低位回升.md",
+          "bytes": 7991,
+          "compressed_bytes": 3482,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-17-机构E-新兴市场策略周报：风险偏好暂歇.md",
+          "bytes": 8523,
+          "compressed_bytes": 4215,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-19-机构B-新兴市场资金流向：主动型基金活跃度在短暂回暖后继而减弱.md",
+          "bytes": 7336,
+          "compressed_bytes": 3142,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-19-机构C-亚洲信贷交易员：新加坡之行纪要.md",
+          "bytes": 7362,
+          "compressed_bytes": 3445,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-19-机构C-抵押贷款交易员：在中性区域寻求价值.md",
+          "bytes": 7021,
+          "compressed_bytes": 3420,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-19-机构G-亚洲（日本除外）外汇：5月份美国资产流入强劲，但高频数据仍相对低迷.md",
+          "bytes": 6528,
+          "compressed_bytes": 2939,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-19-机构H-美国：谁将购买短期国债供应？.md",
+          "bytes": 6027,
+          "compressed_bytes": 2878,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-20-机构A-系统性资金流向监测：欧元兑美元进一步下跌可能引发大规模CTA平仓.md",
+          "bytes": 7109,
+          "compressed_bytes": 3281,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-20-机构C-市场洞察：系统性与期货更新：延续.md",
+          "bytes": 6541,
+          "compressed_bytes": 2992,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-21-机构H-全球跨资产焦点：信号、资金流与关键数据.md",
+          "bytes": 6050,
+          "compressed_bytes": 2995,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-22-机构A-日本利率观察：日本证券业协会6月场外债券交易：非居民仍是日本国债的主要投资者.md",
+          "bytes": 5424,
+          "compressed_bytes": 2515,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-22-机构B-One 资金流与头寸：GENIUS法案推动加密货币ETF资金流入创纪录及强劲的以太坊期货买盘；投资级债券和杠杆ETF则出现大规模资金流出.md",
+          "bytes": 7690,
+          "compressed_bytes": 3409,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-22-机构C-中国：外管局数据显示6月份外汇小幅流入.md",
+          "bytes": 4881,
+          "compressed_bytes": 2298,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-22-机构E-美国固定收益市场的外资流动_ 五月份美国债券需求强劲.md",
+          "bytes": 6848,
+          "compressed_bytes": 3103,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-23-机构E-亚洲外汇与利率策略_ 结构性转变更新.md",
+          "bytes": 4651,
+          "compressed_bytes": 2232,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-23-机构I-亚洲外汇焦点：人民币：稳步进展.md",
+          "bytes": 6938,
+          "compressed_bytes": 3381,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构B-信用市场展望与策略_ 在夏末踌躇不前.md",
+          "bytes": 9206,
+          "compressed_bytes": 4317,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构C-周度资金流向：周期性板块获支撑，防御性板块受压制.md",
+          "bytes": 6443,
+          "compressed_bytes": 2843,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构E-新兴市场策略周报：选择成为乐观主义者.md",
+          "bytes": 9667,
+          "compressed_bytes": 4639,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构F-巴克莱外汇月末再平衡_ 美元弱势卖出.md",
+          "bytes": 4273,
+          "compressed_bytes": 2138,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构G-日元周报：日本政局仍是焦点，下一步何去何从？.md",
+          "bytes": 6950,
+          "compressed_bytes": 3203,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构H-2025年上半年组合交易回顾_ 交易量飙升，高收益债引领.md",
+          "bytes": 6686,
+          "compressed_bytes": 2922,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-26-机构I-中国股票策略：关于2025年第二季度基金头寸的常见问题解答.md",
+          "bytes": 9306,
+          "compressed_bytes": 4034,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-28-机构A-美国利率观察_ 降低风险.md",
+          "bytes": 6229,
+          "compressed_bytes": 2914,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-28-机构B-新兴市场资本流动：我们仍不满意.md",
+          "bytes": 7731,
+          "compressed_bytes": 3323,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-28-机构F-资金流向：回归长端.md",
+          "bytes": 6461,
+          "compressed_bytes": 2906,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-29-机构A-日本洞察：因美日贸易协议及财政增长上调年终预测；风险犹存.md",
+          "bytes": 7934,
+          "compressed_bytes": 3700,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-29-机构B-One资金流与持仓：国际股票与贵金属ETF录得大量资金流入；中国ETF资金流入创9个月新高；美_日股指期货获买入；资产管理公司卖出美国债券期货.md",
+          "bytes": 7961,
+          "compressed_bytes": 3385,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-30-机构B-可持续固定收益投资者_ 可持续投资的光明面.md",
+          "bytes": 9801,
+          "compressed_bytes": 4493,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-31-机构A-7月FOMC会议：首次鹰派.md",
+          "bytes": 6259,
+          "compressed_bytes": 3010,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-07-31-机构H-亚洲新兴市场股票策略：资金流向与仓位配置指南.md",
+          "bytes": 6524,
+          "compressed_bytes": 2704,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-01-机构G-日元资金流向特别报告：GPIF在2025年4月至6月持续进行投资组合再平衡活动.md",
+          "bytes": 6640,
+          "compressed_bytes": 2756,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-01-机构I-全球债券资金流向罗盘：固定收益.md",
+          "bytes": 7394,
+          "compressed_bytes": 3290,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-03-机构A-追随资金流向：火热的七月，无惧多年利差收紧的购买狂潮.md",
+          "bytes": 4802,
+          "compressed_bytes": 2154,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-03-机构B-新兴市场资金追踪：新兴市场股票基金连续八周录得资金流入，主动型基金资金流尚未恢复.md",
+          "bytes": 8661,
+          "compressed_bytes": 3683,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-03-机构C-新兴市场每周资金流向监测：全球新兴市场基金连续第10周流入；南向资金周流入75亿美元；新兴市场基金7月_年初至今回报+1%_+16%；中国基金7月回报+6%.md",
+          "bytes": 7050,
+          "compressed_bytes": 3106,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-03-机构H-全球资金流向七月回顾.md",
+          "bytes": 5208,
+          "compressed_bytes": 2532,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-04-机构B-大宗商品市场头寸与资金流_ 随着美国关税政策逐渐明朗，全球大宗商品资金流降至十年平均水平以下.md",
+          "bytes": 7801,
+          "compressed_bytes": 3562,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-04-机构C-市场洞察：系统性与期货更新：一个更中性的基准.md",
+          "bytes": 5961,
+          "compressed_bytes": 2792,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-04-机构D-尚需时日：美国资金或将流出.md",
+          "bytes": 5617,
+          "compressed_bytes": 2680,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-05-机构D-坚守阵地：新兴市场信贷月报.md",
+          "bytes": 9190,
+          "compressed_bytes": 4098,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-05-机构I-中国股票策略：美国路演反馈——兴趣提升但仍保持谨慎.md",
+          "bytes": 10994,
+          "compressed_bytes": 5134,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-06-机构D-美国十年期国债拍卖.md",
+          "bytes": 5560,
+          "compressed_bytes": 2581,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-07-机构B-摩根大通美国短久期周中更新：深入探讨离岸美元货币市场基金.md",
+          "bytes": 6873,
+          "compressed_bytes": 3021,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-07-机构C-美元与利率差异：未来将进一步表现不佳.md",
+          "bytes": 8516,
+          "compressed_bytes": 3820,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-09-机构B-新兴市场资金流向周报：稳扎稳打，新兴市场债券基金8月初持续录得资金流入.md",
+          "bytes": 6779,
+          "compressed_bytes": 2941,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-09-机构C-中国市场每周要闻_ 市场上涨1～2%；习近平主席与俄罗斯总统普京通话；MSCI公布指数评估结果；7月贸易数据超预期.md",
+          "bytes": 8467,
+          "compressed_bytes": 4146,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-09-机构E-新兴市场策略周报：月度新兴市场债券投资组合：宏观环境喜忧参半，但我们坚持做空美元.md",
+          "bytes": 7427,
+          "compressed_bytes": 3632,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-09-机构H-量化投资策略：理解CTA持仓与预测其资金流.md",
+          "bytes": 7372,
+          "compressed_bytes": 3442,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-10-机构A-信用分析_ 首周概览.md",
+          "bytes": 6950,
+          "compressed_bytes": 3178,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-10-机构A-流量秀：黄金拥趸.md",
+          "bytes": 8660,
+          "compressed_bytes": 4299,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-11-机构A-跨境资金流动：美元抛售加剧.md",
+          "bytes": 6699,
+          "compressed_bytes": 3171,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-11-机构H-跨资产聚焦_ 信号、资金流与关键数据.md",
+          "bytes": 6217,
+          "compressed_bytes": 3071,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-12-机构A-美银证券股票客户资金流向趋势：机构客户买入额创接近历史记录的一周.md",
+          "bytes": 7053,
+          "compressed_bytes": 3133,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-12-机构D-日本国际证券交易_ 外国债券资金流向（2025年6月）.md",
+          "bytes": 4337,
+          "compressed_bytes": 1970,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-14-机构B-摩根大通美国短期债券周中更新：7月份资金流出逆回购工具并增持国库券.md",
+          "bytes": 6246,
+          "compressed_bytes": 2745,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-14-机构E-全球量化宏观策略：行业资金流向快报：长仓基金减持科技股，对冲基金增持.md",
+          "bytes": 5742,
+          "compressed_bytes": 2448,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-15-机构E-新兴市场策略周报_ 又一个不寻常的八月.md",
+          "bytes": 8131,
+          "compressed_bytes": 3893,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-17-机构A-资金流向观察_ 深入杰克逊霍尔.md",
+          "bytes": 7067,
+          "compressed_bytes": 3536,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-17-机构B-摩根大通外汇仓位监测：新西兰联储会议前纽元仓位清晰.md",
+          "bytes": 5919,
+          "compressed_bytes": 2712,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-17-机构C-新兴市场每周资金流向监测：南向资金周五单日净买入创纪录（+46亿美元）；EPFR初步数据显示共同基金7月增持中国；MSCI指数调整分析.md",
+          "bytes": 7582,
+          "compressed_bytes": 3427,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-17-机构G-日元周报_ 日本央行的紧缩政策能否与美联储的宽松政策并存？.md",
+          "bytes": 6097,
+          "compressed_bytes": 2965,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构A-中国：股票策略师日记 (H_A股)_ 周度回顾 (8月11-15日)：7月宏观数据疲软，但市场反应平淡.md",
+          "bytes": 7694,
+          "compressed_bytes": 3861,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构A-资金流向追踪：从资产管理行业财报中获得的启示.md",
+          "bytes": 8726,
+          "compressed_bytes": 4209,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构B-美国股票衍生品策略：VIX指数与系统性仓位；交易滞胀、科技股vs中小盘股及零售商；事件与尾部风险定价.md",
+          "bytes": 9234,
+          "compressed_bytes": 4102,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构C-中国在岸轮动：从债券到股票与筛选“反内卷”赢家.md",
+          "bytes": 6477,
+          "compressed_bytes": 3063,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构C-市场洞察_ 日本仓位创历史新高.md",
+          "bytes": 5429,
+          "compressed_bytes": 2520,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构D-德意志银行货币流向：美元_G10：自主型对冲基金抛售增加；系统化对冲基金买盘放缓.md",
+          "bytes": 6235,
+          "compressed_bytes": 2707,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构E-美国银行业：本周图表——评估营销支出投资.md",
+          "bytes": 7236,
+          "compressed_bytes": 2994,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-18-机构H-信号、资金流与关键数据：一份追踪市场情绪、资金流向和仓位的关键跨资产监测、数据、动态和模型的每周摘要.md",
+          "bytes": 5364,
+          "compressed_bytes": 2598,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-19-机构B-欧洲资金流向追踪_ 欧洲被动型股票基金7月资金流出.md",
+          "bytes": 6827,
+          "compressed_bytes": 2746,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-19-机构C-高盛亚洲之港元利率_外汇：我们到了吗？.md",
+          "bytes": 6143,
+          "compressed_bytes": 2862,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-19-机构J-全球策略CTA的头寸与资金流向：双周更新.md",
+          "bytes": 7004,
+          "compressed_bytes": 3352,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-20-机构B-另类外汇头寸及资金流：审视美元资金流叙事.md",
+          "bytes": 8238,
+          "compressed_bytes": 3571,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-20-机构C-市场洞察：中国——好戏还在后头.md",
+          "bytes": 5984,
+          "compressed_bytes": 2871,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-21-机构D-银行作为下一批回购贷款方_ 可供规模有多大？.md",
+          "bytes": 6174,
+          "compressed_bytes": 2742,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-21-机构E-新兴市场策略周报_ 享受新兴市场强势的最后阶段.md",
+          "bytes": 7966,
+          "compressed_bytes": 4036,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-21-机构G-Jackson Hole-外汇洞察：杰克逊霍尔会议临近，流入美国的周度投资组合资金小幅回升.md",
+          "bytes": 4657,
+          "compressed_bytes": 2010,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-24-机构A-欧洲利率观察_ 外国投资者瞩目欧洲政府债券.md",
+          "bytes": 5735,
+          "compressed_bytes": 2653,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-24-机构A-资金流向秀_ 我的群体是我的债券.md",
+          "bytes": 6450,
+          "compressed_bytes": 3049,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-24-机构B-Jackson Hole-摩根大通外汇头寸监测_ 欧元多头头寸保持韧性.md",
+          "bytes": 5724,
+          "compressed_bytes": 2502,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-24-机构C-中国每周快讯_ A股上涨4%，上证综指创10年新高；MSCI中国指数上涨1%；5000亿人民币潜在投资瞄准新兴产业.md",
+          "bytes": 8418,
+          "compressed_bytes": 4064,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-24-机构C-日本周报_ 强劲的外资净流入与喜人的交叉持股解除势头.md",
+          "bytes": 7902,
+          "compressed_bytes": 3709,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-25-机构F-巴克莱中国展望：股市无视疲软数据.md",
+          "bytes": 6697,
+          "compressed_bytes": 3341,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-25-机构G-Jackson Hole-中国股市仍有上涨空间：“泡沫”担忧为时过早.md",
+          "bytes": 7557,
+          "compressed_bytes": 3579,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-26-机构B-One资金流与头寸：资金流入成长股、公司债券和VIX ETF.md",
+          "bytes": 6857,
+          "compressed_bytes": 3239,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-27-机构E-中国经济：催化剂更新——希望之夏的尾声？.md",
+          "bytes": 6134,
+          "compressed_bytes": 3122,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-27-机构F-美联储兜底政策全面启动：扼杀波动性并引发对冲基金_系统性基金的购买热潮.md",
+          "bytes": 8050,
+          "compressed_bytes": 3762,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-27-机构J-中国股票策略_ 市场反馈及关于A股市场的十大问题.md",
+          "bytes": 10714,
+          "compressed_bytes": 4799,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-29-机构A-亚洲信贷每周聚焦（8月21日至27日当周）：中国高收益房地产表现优异，利率走低.md",
+          "bytes": 6039,
+          "compressed_bytes": 2965,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-29-机构A-战情室_夏末放缓.md",
+          "bytes": 6448,
+          "compressed_bytes": 2850,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-29-机构B-新兴市场资金追踪：新兴市场温和流入，中国7月认购强劲.md",
+          "bytes": 6693,
+          "compressed_bytes": 3024,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-29-机构E-资金流向洞察：中美ETF均录得资金流入.md",
+          "bytes": 6893,
+          "compressed_bytes": 3002,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-29-机构F-巴克莱股票市场评论：法国历史重演.md",
+          "bytes": 7271,
+          "compressed_bytes": 3460,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-08-29-机构H-中国股票策略：市场再创新高；下一步何去何从？.md",
+          "bytes": 8933,
+          "compressed_bytes": 4040,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-01-机构A-中国：股票策略师日记：周度回顾（8月25-29日）：在流动性驱动的反弹与基本面之间寻求平衡.md",
+          "bytes": 7589,
+          "compressed_bytes": 3948,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-01-机构B-共识资产配置_ 对韩国和中国股票兴趣浓厚.md",
+          "bytes": 5638,
+          "compressed_bytes": 2474,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-01-机构F-巴克莱欧洲股票策略：2025年8月月度总结.md",
+          "bytes": 6019,
+          "compressed_bytes": 2962,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-01-机构G-投机者减持多头仍有空间；日经225指数下行目标：美国就业报告与波动性反弹风险 _ VIX空头的平均入场成本 _ 日本央行第二次加息交易.md",
+          "bytes": 6731,
+          "compressed_bytes": 3104,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-01-机构H-中国市场辩论：来自北京和深圳的关键启示.md",
+          "bytes": 5476,
+          "compressed_bytes": 2894,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-02-机构J-全球策略CTA持仓与资金流向：双周更新.md",
+          "bytes": 7355,
+          "compressed_bytes": 3571,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-03-机构A-八月投资级评级：净下调.md",
+          "bytes": 6036,
+          "compressed_bytes": 2615,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-04-机构B-新兴市场资本流动：本地投资者同样重要.md",
+          "bytes": 4961,
+          "compressed_bytes": 2300,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-04-机构I-亚洲外汇焦点：新台币：风光不再.md",
+          "bytes": 6279,
+          "compressed_bytes": 3092,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构A-系统性资金流向监测_ 美国国债期货价格趋势为趋势追随者发出买入信号.md",
+          "bytes": 7269,
+          "compressed_bytes": 3394,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构A-美国利率观察：九月融资测试.md",
+          "bytes": 6099,
+          "compressed_bytes": 3085,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构C-中国每周启动_ MSCI中国指数上涨2%，而A股回调1%；北京举行阅兵；8月标普全球服务业PMI超预期.md",
+          "bytes": 7218,
+          "compressed_bytes": 3336,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构C-欧洲每周前瞻返校季：关于欧洲股市的10个要点.md",
+          "bytes": 7571,
+          "compressed_bytes": 3591,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构D-探索外部因素：加元的又一挑战.md",
+          "bytes": 5543,
+          "compressed_bytes": 2393,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构G-外汇洞察_ 自7月以来，外国投资组合流入美国资产的势头保持稳定；美元指数的情况与此类似.md",
+          "bytes": 5087,
+          "compressed_bytes": 2050,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-07-机构I-全球债券资金流向指南：风险溢价重估.md",
+          "bytes": 6954,
+          "compressed_bytes": 3144,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-08-机构B-One资金流向与头寸_ CTA买入利率；美国股票ETF资金流出；资金流入货币市场_黄金，流出投资级公司债_加密货币ETF.md",
+          "bytes": 5216,
+          "compressed_bytes": 2565,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-08-机构F-美国国债需求推动银行证券持有量激增.md",
+          "bytes": 7390,
+          "compressed_bytes": 3236,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-08-机构G-日元月度资金流向监测：全球外汇.md",
+          "bytes": 7095,
+          "compressed_bytes": 3022,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-08-机构H-信号、资金流与关键数据：一份追踪市场情绪、资金流和仓位的关键跨资产监测周报.md",
+          "bytes": 6132,
+          "compressed_bytes": 2884,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-09-机构A-战情室_ 第二季度再杠杆化暂停.md",
+          "bytes": 5837,
+          "compressed_bytes": 2711,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-09-机构J-全球外汇策略图表集：日元脆弱性降低.md",
+          "bytes": 6367,
+          "compressed_bytes": 2938,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-10-机构C-市场洞察_ Marquee_0910205340.md",
+          "bytes": 6878,
+          "compressed_bytes": 3408,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-11-机构B-资金流与流动性：股票回购或将进一步加强.md",
+          "bytes": 7312,
+          "compressed_bytes": 3467,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-11-机构G-日元日内评论：众多候选人浮现，小泉的立场仍不明朗.md",
+          "bytes": 5979,
+          "compressed_bytes": 2906,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-12-机构I-全球债券资金流向指南：外国投资者减少印尼债务敞口.md",
+          "bytes": 6956,
+          "compressed_bytes": 3241,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-15-机构A-美国利率观察：市场仍笃信曲线增陡，寻找长端买家.md",
+          "bytes": 7337,
+          "compressed_bytes": 3341,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-15-机构B-One资金流与头寸：欧洲、澳洲和远东地区(EAFE)、综合_中期美国国债_国际债券和加密货币ETF出现强劲资金流入；杠杆ETF出现强劲资金流出；备兑看涨期权策略ETF资金流入放缓；CTA买入欧洲股票.md",
+          "bytes": 7733,
+          "compressed_bytes": 3399,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-15-机构B-欧洲资金流向追踪_ 欧洲8月份资金流入强劲，美国市场环比持平.md",
+          "bytes": 6383,
+          "compressed_bytes": 2842,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-15-机构C-GOAL仓位分析：尽管自夏季以来市场表现为“风险偏好”，但仓位部署仍然滞后.md",
+          "bytes": 6825,
+          "compressed_bytes": 3204,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-15-机构D-投资者仓位与资金流向：股市缓步走高，但市场情绪依旧低迷.md",
+          "bytes": 5538,
+          "compressed_bytes": 2636,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-15-机构F-资金流向：外国官方部门的销售.md",
+          "bytes": 7734,
+          "compressed_bytes": 3411,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-16-机构A-美银9月全球基金经理调查：多头猛进.md",
+          "bytes": 6860,
+          "compressed_bytes": 3078,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-16-机构H-美联储会议前战术性美元头寸仍接近中性.md",
+          "bytes": 5690,
+          "compressed_bytes": 2283,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-17-机构D-谁在购买国债、抵押贷款、信贷和市政债券？.md",
+          "bytes": 6630,
+          "compressed_bytes": 3239,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-18-机构A-中国：证券投资流动的模式及其外汇影响.md",
+          "bytes": 6857,
+          "compressed_bytes": 3110,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-18-机构G-欧元投资组合流动放缓_ 7月份对欧元区资产的需求有限.md",
+          "bytes": 4893,
+          "compressed_bytes": 2142,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-19-机构A-9月FOMC会议：不再鸽派.md",
+          "bytes": 5720,
+          "compressed_bytes": 2689,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-19-机构A-流动洞察：追踪资金流向再探之储备管理者.md",
+          "bytes": 6382,
+          "compressed_bytes": 2958,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-21-机构A-顺势而为：美联储降息，债券上涨.md",
+          "bytes": 5719,
+          "compressed_bytes": 2493,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-21-机构B-新兴市场资金流周报：稳步前行：新兴市场债券基金9月持续资金流入.md",
+          "bytes": 5891,
+          "compressed_bytes": 2589,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-21-机构C-周度基金流向：外国对美国股票的需求放缓.md",
+          "bytes": 5509,
+          "compressed_bytes": 2460,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-21-机构F-流动性盛宴：股市回顾.md",
+          "bytes": 5797,
+          "compressed_bytes": 2787,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-22-机构A-美国利率观察：看多，买盘拥挤.md",
+          "bytes": 7118,
+          "compressed_bytes": 3333,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-22-机构B-摩根大通外汇头寸监测_ 美元下行资金流集中在联邦公开市场委员会(FOMC)会议之前，而非之后.md",
+          "bytes": 5732,
+          "compressed_bytes": 2550,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-22-机构F-8月份日本国债投资进一步放缓.md",
+          "bytes": 6478,
+          "compressed_bytes": 2671,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-22-机构H-亚洲信贷策略：寻找其他形式的阿尔法.md",
+          "bytes": 8713,
+          "compressed_bytes": 3823,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-22-机构J-全球外汇策略：瑞士法郎：堪比黄金.md",
+          "bytes": 6806,
+          "compressed_bytes": 3370,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-23-机构A-信贷投资者调查：泡沫与喧嚣.md",
+          "bytes": 8888,
+          "compressed_bytes": 3918,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-23-机构A-全球股票头寸分析：资金区域轮动.md",
+          "bytes": 6838,
+          "compressed_bytes": 3143,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-23-机构F-解读交易商的手牌：剖析SPX期权流.md",
+          "bytes": 8139,
+          "compressed_bytes": 3602,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-24-机构D-新兴市场本地投资者拥有什么？.md",
+          "bytes": 6091,
+          "compressed_bytes": 2747,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-25-机构A-持仓分析：新的开始，系列终结.md",
+          "bytes": 7039,
+          "compressed_bytes": 3112,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-25-机构D-一切都是相对的：世界形势向好对美元构成挑战.md",
+          "bytes": 5616,
+          "compressed_bytes": 2498,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-26-机构E-资金流向洞察：股票基金资金流广度改善.md",
+          "bytes": 6402,
+          "compressed_bytes": 2716,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-26-机构F-巴克莱股票市场回顾：对德国的疑虑，英国与法国的焦虑.md",
+          "bytes": 7344,
+          "compressed_bytes": 3442,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-27-机构A-追随资金流：长期低利率助长风险偏好.md",
+          "bytes": 6731,
+          "compressed_bytes": 2805,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-28-机构B-新兴市场资金流向周报：行稳致远：新兴市场债券基金连续第10周录得资金流入.md",
+          "bytes": 5576,
+          "compressed_bytes": 2495,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-28-机构C-亚太每周速览_ 受美国政策不确定性影响，MXAPJ下跌1.5%；预计第四季度将上涨，建议逢低吸纳.md",
+          "bytes": 8647,
+          "compressed_bytes": 4104,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-28-机构C-新兴市场周报：MSCI新兴市场指数周跌1.2%；沙特阿拉伯因潜在的所有权限.md",
+          "bytes": 7928,
+          "compressed_bytes": 3700,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-28-机构E-外汇资金流周报：新兴市场总体转为净流出.md",
+          "bytes": 10736,
+          "compressed_bytes": 4654,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-09-29-机构H-摩根士丹利全球宏观论坛：中国观察：刺激政策与市场展望.md",
+          "bytes": 7573,
+          "compressed_bytes": 3564,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-01-机构A-欧洲利率观察_ EGB供给、头寸与资金流.md",
+          "bytes": 7547,
+          "compressed_bytes": 3470,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-01-机构B-中国本土市场周报：境内美元流动性充裕；人民币利率持续面临技术性阻力.md",
+          "bytes": 9430,
+          "compressed_bytes": 4202,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-01-机构E-亚洲外汇与利率策略_亚洲资金流概览.md",
+          "bytes": 4962,
+          "compressed_bytes": 2209,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-01-机构J-全球贵金属评论_金价在告诉我们什么？.md",
+          "bytes": 6856,
+          "compressed_bytes": 3326,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-02-机构A-日本准备对美投资5500亿美元：风险为增加财政投融资计划债券发行与更多使用外汇掉期.md",
+          "bytes": 6851,
+          "compressed_bytes": 3076,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-02-机构B-资金流与流动性_流动性持续强劲扩张.md",
+          "bytes": 8277,
+          "compressed_bytes": 3821,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-02-机构D-丹麦对冲比率更新：截至2025年8月.md",
+          "bytes": 4293,
+          "compressed_bytes": 1875,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-02-机构G-保留判断：美元储备份额因估值效应下降.md",
+          "bytes": 5102,
+          "compressed_bytes": 2169,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-03-机构A-信贷加分：信贷分析.md",
+          "bytes": 5581,
+          "compressed_bytes": 2561,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-03-机构B-摩根大通外汇头寸监测_ 储备管理者在第二季度并未大举抛售美元.md",
+          "bytes": 6989,
+          "compressed_bytes": 3045,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-03-机构C-美洲资本市场：第三季度预览：资本市场活动加速且估值具有吸引力，众多利好值得期待.md",
+          "bytes": 11560,
+          "compressed_bytes": 4961,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-03-机构I-全球债券资金流向指南：固定收益_利率：转向谨慎_全球.md",
+          "bytes": 6490,
+          "compressed_bytes": 2718,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-05-机构B-共识资产配置_ 巴西、韩国和中国成为焦点.md",
+          "bytes": 6612,
+          "compressed_bytes": 2980,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-05-机构C-新兴市场每周资金流向监测：本周外资强劲买入，以北亚为首；对冲基金9月逆转了8月在中国股市约50%的买入；新兴市场_亚洲基金年初至今上涨25-27%，而中国基金年初至今上涨30%.md",
+          "bytes": 6432,
+          "compressed_bytes": 2826,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-05-机构D-投资者仓位与资金流向_ 资金流入激增.md",
+          "bytes": 6688,
+          "compressed_bytes": 3153,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-06-机构E-新兴市场信贷晴雨表周报_ 勉强做多.md",
+          "bytes": 5682,
+          "compressed_bytes": 2523,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-06-机构H-G10外汇策略：三年期调查报告.md",
+          "bytes": 5114,
+          "compressed_bytes": 2306,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-07-机构A-美国利率观察：曲线陡峭化交易不再拥挤.md",
+          "bytes": 6181,
+          "compressed_bytes": 2793,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-07-机构B-大宗商品市场头寸与资金流向：全球大宗商品未平仓合约价值因原油价格溢价下降而从近期高点回落.md",
+          "bytes": 7629,
+          "compressed_bytes": 3432,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-07-机构J-全球策略CTA仓位与资金流：双周更新.md",
+          "bytes": 7520,
+          "compressed_bytes": 3684,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-08-机构B-摩根大通外汇头寸监测：美元_日元上行需求激增，剩余日元多头面临挑战.md",
+          "bytes": 4898,
+          "compressed_bytes": 2311,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-08-机构E-台湾：寿险业动态更新与新台币展望.md",
+          "bytes": 5937,
+          "compressed_bytes": 2784,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-08-机构G-日本宏观策略_ 9月外国债券和股票交易.md",
+          "bytes": 5435,
+          "compressed_bytes": 2458,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-09-机构B-日本量化股票观点：尚无见顶迹象-现货股票动量交易处于过渡阶段且仍保持沉寂.md",
+          "bytes": 6638,
+          "compressed_bytes": 3050,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-10-机构B-新兴市场资金追踪_新兴市场股票基金的主动与被动投资分歧进一步扩大.md",
+          "bytes": 7673,
+          "compressed_bytes": 3337,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-10-机构C-从贸易条件指数看贵金属反弹：做空加元_南非兰特.md",
+          "bytes": 5076,
+          "compressed_bytes": 2359,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-12-机构A-旁观思考_信用投资者调查结果.md",
+          "bytes": 7466,
+          "compressed_bytes": 3346,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-12-机构B-摩根大通外汇持仓监测_ 对美元_日元上行空间的需求蔓延至美元.md",
+          "bytes": 5242,
+          "compressed_bytes": 2356,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-12-机构C-每周资金流向：闪闪发光的都是金（和银）.md",
+          "bytes": 5633,
+          "compressed_bytes": 2461,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-13-机构A-中国：股票策略师日记.md",
+          "bytes": 8560,
+          "compressed_bytes": 4242,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-13-机构A-欧洲利率观察_ 欧洲政府债券需求降温，政治因素成为焦点.md",
+          "bytes": 5565,
+          "compressed_bytes": 2502,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-13-机构B-摩根大通外汇头寸监控：外汇套利交易头寸最新动态.md",
+          "bytes": 6794,
+          "compressed_bytes": 3014,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-14-机构D-日本国际交易：外国债券资金流 (2025年8月).md",
+          "bytes": 6318,
+          "compressed_bytes": 2616,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-15-机构A-美银证券股票客户资金流向趋势：机构与散户客户逢低买入.md",
+          "bytes": 6669,
+          "compressed_bytes": 3009,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-15-机构F-追踪欧元互换头寸：SDR交易数据足以捕捉欧元互换动态并转化为流量指标.md",
+          "bytes": 6839,
+          "compressed_bytes": 3284,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-17-机构A-资金流向观察：美联储，现在别让我失望.md",
+          "bytes": 6662,
+          "compressed_bytes": 3409,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-17-机构D-如何对冲股票？.md",
+          "bytes": 4997,
+          "compressed_bytes": 2363,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-17-机构E-资金流向洞察：主动型与被动型基金分化持续，股票资金流入加速.md",
+          "bytes": 6738,
+          "compressed_bytes": 2890,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-17-机构H-A股情绪降温_ 中美紧张关系再度升级.md",
+          "bytes": 5667,
+          "compressed_bytes": 2948,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-17-机构I-释压性反弹：韩国、印度、印度尼西亚、匈牙利和菲律宾出现周度外国资金流入；墨西哥本币债券出现资金流出.md",
+          "bytes": 7749,
+          "compressed_bytes": 3382,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-19-机构D-投资者头寸与资金流向_ 市场紧张导致大幅削减.md",
+          "bytes": 6886,
+          "compressed_bytes": 3047,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-20-机构B-One 资金流向与仓位_ 黄金和白银大量买入；ETF资金流入发达市场股票_主题_医疗保健，流出波动性_贷款_加密货币；CTA维持全球股票多头仓位，买入欧洲利率.md",
+          "bytes": 7513,
+          "compressed_bytes": 3375,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-20-机构B-中国A股股票策略_ 流动性仍然健康，重申我们对沪深300指数的乐观态度 ：对中国创新股的筛选.md",
+          "bytes": 8783,
+          "compressed_bytes": 4134,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-20-机构D-日本缩减其套利交易的前景.md",
+          "bytes": 6420,
+          "compressed_bytes": 2944,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-20-机构F-美国利率波动性仓位布局：互换期权投资者减少卖出波动性.md",
+          "bytes": 6862,
+          "compressed_bytes": 2972,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-21-机构A-美国利率观察：多头主导方向性头寸.md",
+          "bytes": 7289,
+          "compressed_bytes": 3349,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-21-机构D-谁能回家？.md",
+          "bytes": 7729,
+          "compressed_bytes": 3498,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-21-机构J-中国股票策略_ 风格转换将持续多久？.md",
+          "bytes": 8082,
+          "compressed_bytes": 3618,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-23-机构B-金属周报_ 黄金：消化、重置与（不久后的）重复.md",
+          "bytes": 7903,
+          "compressed_bytes": 3770,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-23-机构I-亚洲外汇焦点_ 人民币.md",
+          "bytes": 5680,
+          "compressed_bytes": 2735,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-26-机构C-新兴市场每周资金流向监测：本周北亚主导外资卖出；对冲基金本月迄今净买入中国，而对台湾_韩国的配置接近五年高位；韩国的主动型共同基金配置在九月升至中性.md",
+          "bytes": 7546,
+          "compressed_bytes": 3454,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-26-机构C-日本市场每周速览：美国路演反馈，美国投资者净流入增长.md",
+          "bytes": 6099,
+          "compressed_bytes": 3156,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-26-机构D-投资者仓位与资金流向_仓位波动，资金流入稳健.md",
+          "bytes": 6250,
+          "compressed_bytes": 3035,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-26-机构G-亚洲外汇策略：流入美国资产的资金依然疲软.md",
+          "bytes": 5078,
+          "compressed_bytes": 2125,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-27-机构B-One 资金流与头寸：黄金大量卖出；发达市场股票ETF强劲流入；CTA买入大宗商品，卖出欧元区利率；备兑策略ETF资金流入持续减速.md",
+          "bytes": 5931,
+          "compressed_bytes": 2754,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-27-机构D-自主型对冲基金买入美元：实钱机构卖出黄金.md",
+          "bytes": 7201,
+          "compressed_bytes": 3104,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-28-机构A-美银证券股票客户资金流向趋势_ 股票资金大幅流入，市场参与广泛.md",
+          "bytes": 7053,
+          "compressed_bytes": 3089,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-28-机构I-亚洲股票策略_ 基金增持中国大陆和韩国，减持亚洲其他地区.md",
+          "bytes": 6099,
+          "compressed_bytes": 2782,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-29-机构C-亚洲聚焦：韩国的资金流动与对外贸易—对韩元的影响.md",
+          "bytes": 6378,
+          "compressed_bytes": 2830,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-29-机构F-动量交易平仓，长线基金与散户买盘强劲：仓位变得更加清晰，股市买盘依旧.md",
+          "bytes": 6857,
+          "compressed_bytes": 3188,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-30-机构B-美国股票衍生品策略：交易IEEPA裁决、中国科技股与苹果公司财报；第三季度财报与系统性仓位更新.md",
+          "bytes": 8760,
+          "compressed_bytes": 4217,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-10-30-机构G-外汇洞察：10月份流入美国投资组合资产的资金相对强劲，本周有所回升.md",
+          "bytes": 5702,
+          "compressed_bytes": 2339,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-01-机构C-新兴市场每周速览：阿根廷股市在中期选举后大幅上涨.md",
+          "bytes": 7747,
+          "compressed_bytes": 3449,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-02-机构A-卖方指标：空头越来越难寻.md",
+          "bytes": 6265,
+          "compressed_bytes": 2803,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-02-机构A-系统性资金流监测：CTA持有大量美国国债期货多头，股票多头头寸仍处于过高水平.md",
+          "bytes": 7502,
+          "compressed_bytes": 3373,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-02-机构B-平稳的资金流：新兴市场债券基金在10月底持续录得资金流入.md",
+          "bytes": 5714,
+          "compressed_bytes": 2659,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-03-机构E-新兴市场信用晴雨表周报：保持警惕.md",
+          "bytes": 5415,
+          "compressed_bytes": 2534,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-04-机构A-美国利率观察_ 何为去美元化？.md",
+          "bytes": 7678,
+          "compressed_bytes": 3380,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-04-机构H-全球市场动态：十月回顾.md",
+          "bytes": 5883,
+          "compressed_bytes": 2791,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-04-机构I-大中华区金融业洞察：南向资金（四）：分分合合，再度回归.md",
+          "bytes": 7045,
+          "compressed_bytes": 3289,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-05-机构D-德银每日图表_ 我亏钱的概率有多大？.md",
+          "bytes": 6438,
+          "compressed_bytes": 2769,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-05-机构E-Fintech & Crypto-数字资产解读：加密货币怎么了.md",
+          "bytes": 6151,
+          "compressed_bytes": 2747,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-06-机构B-资金流与流动性_ 积极的季节性.md",
+          "bytes": 9498,
+          "compressed_bytes": 4127,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-06-机构E-全球量化宏观策略_ 行业资金流向快讯更新：偏好医疗保健与科技行业.md",
+          "bytes": 6232,
+          "compressed_bytes": 2484,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构A-战情室：稳步流入投资级.md",
+          "bytes": 5976,
+          "compressed_bytes": 2572,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构B-新兴市场企业周报：供应动态分化推动CEMBI投资级与美国投资级利差降至最窄水平.md",
+          "bytes": 7947,
+          "compressed_bytes": 3433,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构B-新兴市场股票策略：等待主动型基金的好消息.md",
+          "bytes": 10520,
+          "compressed_bytes": 4702,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构C-中国周报速览_ MXCN指数持平，A股上涨1%；MSCI公布指数审议结果；10月贸易增长放缓，非官方PMI走低.md",
+          "bytes": 8392,
+          "compressed_bytes": 3823,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构C-新兴市场每周资金流向监测：亚洲新兴市场周度外资卖出约90亿美元，北亚领跌；南向资金流入50亿美元；MSCI指数调整影响.md",
+          "bytes": 8135,
+          "compressed_bytes": 3420,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构E-GPIF：在股票带动下再获大幅收益.md",
+          "bytes": 4576,
+          "compressed_bytes": 1928,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-08-机构J-中国股票策略_ 25年第三季度投资者仓位更新-外资在该季度增持.md",
+          "bytes": 7147,
+          "compressed_bytes": 2887,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-10-机构A-中国股票策略：鞠躬退场，等待更佳入场点——中国投资者反馈.md",
+          "bytes": 5858,
+          "compressed_bytes": 2855,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-11-机构B-One资金流向与头寸：ETF资金强劲流入国际股票_成长股_货币市场，流出消费_动量_加密货币ETF；债券资金从高收益轮动至投资级；美股期货遭抛售.md",
+          "bytes": 8491,
+          "compressed_bytes": 3616,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-11-机构C-中国外汇与利率监测：政策转变支撑债券上涨与人民币走势.md",
+          "bytes": 7804,
+          "compressed_bytes": 3489,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-11-机构F-散户投资者动摇，但季节性支撑隐现.md",
+          "bytes": 7273,
+          "compressed_bytes": 3252,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-13-机构A-美银证券股票客户资金流向趋势：机构客户通过ETF逢低买入.md",
+          "bytes": 6525,
+          "compressed_bytes": 3090,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-15-机构E-资金流向洞察：股票资金流入放缓，资金轮动至欧洲和黄金.md",
+          "bytes": 5377,
+          "compressed_bytes": 2307,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-16-机构A-资金流向秀：交易FCI、PMI与CPI.md",
+          "bytes": 7987,
+          "compressed_bytes": 3786,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-16-机构B-触底反弹：新兴市场债券基金转为资金流入.md",
+          "bytes": 5844,
+          "compressed_bytes": 2515,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-16-机构G-外汇洞察：风险规避环境下流入美国资产的资金放缓.md",
+          "bytes": 6033,
+          "compressed_bytes": 2510,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-16-机构I-全球债券资金流向指南：看好新兴市场本币债券.md",
+          "bytes": 8064,
+          "compressed_bytes": 3362,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-17-机构D-市场减少亚洲外汇风险敞口.md",
+          "bytes": 7444,
+          "compressed_bytes": 3503,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-18-机构A-季度中期外汇资金流回顾：削减美元空头头寸.md",
+          "bytes": 6839,
+          "compressed_bytes": 3186,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-18-机构C-黄金：央行购金即时预测显示，继夏季季节性平静后，9月购金活动加速.md",
+          "bytes": 5214,
+          "compressed_bytes": 2535,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-18-机构D-强劲的非弹性需求是黄金的关键.md",
+          "bytes": 5529,
+          "compressed_bytes": 2671,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-18-机构I-亚洲外汇焦点_ 人民币.md",
+          "bytes": 5642,
+          "compressed_bytes": 2475,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-19-机构A-美银证券客户股票资金流趋势：科技股驱动的抛售加剧.md",
+          "bytes": 5592,
+          "compressed_bytes": 2656,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-20-机构B-资金流与流动性：散户投资者对股票和加密货币区别对待.md",
+          "bytes": 5462,
+          "compressed_bytes": 2565,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-23-机构A-资金流表演_ 香槟已冰镇.md",
+          "bytes": 5213,
+          "compressed_bytes": 2594,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-23-机构B-新兴市场资金流周报：资金滚滚而来：新兴市场债券基金在风险情绪动荡的一周中保持稳定步伐.md",
+          "bytes": 5111,
+          "compressed_bytes": 2213,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-23-机构C-中国每周快讯_ 全球避险情绪下市场下跌4-5%；我们推出了“十五五”规划投资组合.md",
+          "bytes": 6494,
+          "compressed_bytes": 3119,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-23-机构C-美国周度快报_ 比较共同基金与对冲基金在美国股市的仓位.md",
+          "bytes": 7085,
+          "compressed_bytes": 3200,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-23-机构D-全球资产配置投资者头寸与资金流向_ 四个月来首次低配.md",
+          "bytes": 6005,
+          "compressed_bytes": 2677,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-23-机构E-数字资产月报：正在经历“比特”式小熔断.md",
+          "bytes": 5202,
+          "compressed_bytes": 2552,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-24-机构A-跨境资金流动：多头平仓.md",
+          "bytes": 3937,
+          "compressed_bytes": 2057,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-24-机构B-大宗商品市场持仓与资金流向.md",
+          "bytes": 4347,
+          "compressed_bytes": 2056,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-26-机构D-CORAX德意志银行货币流动报告：英镑资金流向混合，实钱买入而对冲基金抛售.md",
+          "bytes": 3977,
+          "compressed_bytes": 1923,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-27-机构F-巴克莱：对冲基金去杠杆令仓位更健康，多头资金持续流入支撑年底行情.md",
+          "bytes": 5030,
+          "compressed_bytes": 2570,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-28-机构G-外汇观察：尽管美股因美联储降息预期升温而部分反弹，美资基金仍出现流出.md",
+          "bytes": 3639,
+          "compressed_bytes": 1608,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-28-机构H-A股市场情绪因年底获利回吐小幅回落.md",
+          "bytes": 3573,
+          "compressed_bytes": 2034,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-11-28-机构I-全球债券资金流向指南：迈向2026年的强劲势头.md",
+          "bytes": 4583,
+          "compressed_bytes": 2268,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-01-机构B-大宗商品市场持仓与资金流向.md",
+          "bytes": 4478,
+          "compressed_bytes": 2035,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-01-机构F-海外需求回升：债券ETF和共同基金资金流入保持平稳.md",
+          "bytes": 4031,
+          "compressed_bytes": 1992,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-03-机构A-大宗商品投资组合策略月报：布局2026年大宗商品投资组合.md",
+          "bytes": 4413,
+          "compressed_bytes": 2203,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-03-机构E-全球量化宏观策略：行业资金流快讯——上周科技股买入小幅逆转近期流出.md",
+          "bytes": 3692,
+          "compressed_bytes": 1728,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-03-机构H-11月全球市场回顾：纳斯达克跑输，美债牛陡，白银领涨.md",
+          "bytes": 2939,
+          "compressed_bytes": 1564,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-04-机构A-资金流向追踪：机构投资的近期趋势.md",
+          "bytes": 6409,
+          "compressed_bytes": 3155,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-07-机构C-中国每周速览：市场上涨1%；法国总统马克龙访华；PSL重启扩张以支持政府主导的投资；11月PMI喜忧参半.md",
+          "bytes": 5397,
+          "compressed_bytes": 2824,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-07-机构D-2025年Q4全球利率市场更新：估值、流动性、仓位与资金流.md",
+          "bytes": 4455,
+          "compressed_bytes": 2068,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-07-机构E-资金流向观察：随着美中资金流减弱，股票和债券流入放缓.md",
+          "bytes": 3798,
+          "compressed_bytes": 1837,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-07-机构H-迈向8万亿美元及以上.md",
+          "bytes": 5619,
+          "compressed_bytes": 2754,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-07-机构I-全球债券流动指南：2025年回顾——新兴市场本币债迎来强劲流入.md",
+          "bytes": 5543,
+          "compressed_bytes": 2418,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-08-机构D-全球外汇CORAX：德意志银行货币流向：全权委托对冲基金减少在G10的美元买入.md",
+          "bytes": 6688,
+          "compressed_bytes": 2720,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-08-机构G-日本：11月国际证券交易.md",
+          "bytes": 6173,
+          "compressed_bytes": 2723,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-09-机构A-流动性跨境资本流动：2025年回顾.md",
+          "bytes": 6455,
+          "compressed_bytes": 2855,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-09-机构B-大宗商品市场头寸与资金流：强劲的铜_能源市场推动未平仓合约接近年初至今高点；11月全球大宗商品供应下降1%.md",
+          "bytes": 5598,
+          "compressed_bytes": 2310,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-10-机构A-美银证券股票客户资金流趋势：散户主导的资金流出周.md",
+          "bytes": 6365,
+          "compressed_bytes": 2742,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-10-机构F-日元贬值下的外汇对冲：日本进出口商策略分析.md",
+          "bytes": 7352,
+          "compressed_bytes": 3220,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-12-机构E-资金流向洞察：季节性赎回正在减缓非ETF资金流.md",
+          "bytes": 5772,
+          "compressed_bytes": 2512,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-12-机构F-2026年展望：重启飞轮：进入2026年的市场环境利好，尤其看好另类资产和财富管理券商.md",
+          "bytes": 10080,
+          "compressed_bytes": 4736,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-13-机构C-中国每周启动：市场持平；中央经济工作会议解读暗示温和的促增长政策立场；11月CPI通胀上升，出口增长反弹.md",
+          "bytes": 6206,
+          "compressed_bytes": 3045,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-13-机构C-防御性资产需求上升：全球资金流向，截至12月10日当周.md",
+          "bytes": 5258,
+          "compressed_bytes": 2242,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-14-机构G-外汇洞察：12月联邦公开市场委员会会议前流入美国基金的资金放缓.md",
+          "bytes": 6763,
+          "compressed_bytes": 2499,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-14-机构J-美国股票衍生品策略：2025年五大主题.md",
+          "bytes": 10257,
+          "compressed_bytes": 4723,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-15-机构D-芝商所中断事件对外汇市场影响重大.md",
+          "bytes": 6073,
+          "compressed_bytes": 2719,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-16-机构F-美国利率波动率的仓位分析：互换期权交易量触及年度低点，波动率流向中性.md",
+          "bytes": 6445,
+          "compressed_bytes": 2759,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-16-机构J-全球外汇策略图表集：利率再次主导.md",
+          "bytes": 6009,
+          "compressed_bytes": 2640,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-17-机构B-大宗商品市场定位与资金流：黄金引领的资金流入帮助全球大宗商品市场未平仓合约稳定在1.6万亿美元.md",
+          "bytes": 7425,
+          "compressed_bytes": 3269,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-18-机构B-资金流与流动性：60_40及多资产基金的衰落.md",
+          "bytes": 3570,
+          "compressed_bytes": 1986,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-19-机构F-日本利率策略：日本国债市场展望与稳定币潜力分析.md",
+          "bytes": 3878,
+          "compressed_bytes": 2112,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-21-机构A-流量秀：牛熊指标看跌，CPI看涨.md",
+          "bytes": 7287,
+          "compressed_bytes": 3408,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-21-机构B-美国国债市场日报：回复模糊，请重试.md",
+          "bytes": 6100,
+          "compressed_bytes": 2807,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-21-机构C-长期债券基金资金流更具韧性：全球基金流动，截至12月17日当周.md",
+          "bytes": 5499,
+          "compressed_bytes": 2398,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-21-机构E-资金流洞察：美国ETF出现大规模季节性流入.md",
+          "bytes": 6345,
+          "compressed_bytes": 2684,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-22-机构A-日本利率观察：11月JSDA场外债券交易：外国投资者保持主导地位.md",
+          "bytes": 5869,
+          "compressed_bytes": 2505,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-22-机构F-11月日本国债投资趋势：国内投资者广泛买入长期债券.md",
+          "bytes": 6540,
+          "compressed_bytes": 2643,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-23-机构G-日本股票量化策略：使用股票进行不受日本央行影响的“类债券”做空策略.md",
+          "bytes": 7803,
+          "compressed_bytes": 3301,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2025-12-28-机构G-中国利率：11月离岸债券流出加速.md",
+          "bytes": 5546,
+          "compressed_bytes": 2342,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-05-机构A-美国业绩监测：2025年黄金、全球股票、巨型股及科技、媒体及通讯行业.md",
+          "bytes": 6571,
+          "compressed_bytes": 2928,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-05-机构A-美国共同基金表现更新：2025年成长型与核心型基金面临挑战.md",
+          "bytes": 6690,
+          "compressed_bytes": 2853,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-05-机构B-One资金流与头寸：ETF资金流入美国股票、综合债券和铜，流出公用事业、长期债券、能源和贵金属；CTA保持股票和金属多头，利率和能源空头.md",
+          "bytes": 7052,
+          "compressed_bytes": 3179,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-05-机构B-摩根大通外汇持仓监测_美元以温和空头开启新一年.md",
+          "bytes": 5533,
+          "compressed_bytes": 2437,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-05-机构C-MSCI中国2026年开局上涨2.6%：政策制定者公布2026年“双重升级”计划和重大建设项目.md",
+          "bytes": 7269,
+          "compressed_bytes": 3263,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-06-机构J-全球策略CTA仓位与资金流向：双周更新：以风险偏好模式进入2026年.md",
+          "bytes": 7303,
+          "compressed_bytes": 3425,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-07-机构A-创纪录的供应与利差收紧.md",
+          "bytes": 5016,
+          "compressed_bytes": 2221,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-07-机构D-全球外汇流动性快照：2025年12月G10与新兴市场流动性回落.md",
+          "bytes": 5323,
+          "compressed_bytes": 2384,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-08-机构B-流动性与资金流向：美国货币创造将在2026年加速.md",
+          "bytes": 7342,
+          "compressed_bytes": 3207,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-09-机构B-日本外汇主题：NISA扩张在即.md",
+          "bytes": 5953,
+          "compressed_bytes": 2761,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-09-机构C-强劲但不出奇的供应：为一月份的供应做准备.md",
+          "bytes": 8899,
+          "compressed_bytes": 4112,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-11-机构B-全球大宗商品周报：委内瑞拉局势对商品市场的影响与2026年指数再平衡.md",
+          "bytes": 6994,
+          "compressed_bytes": 3314,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-11-机构B-摩根大通外汇头寸监测：事件风险前出现部分美元买盘.md",
+          "bytes": 6471,
+          "compressed_bytes": 2854,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-11-机构C-年初至今外资（FII）温和卖出，台湾市场领跌；对冲基金12月卖出中国，买入韩国_台湾；印度国内共同基金12月资金流入放缓，但系统性投资计划（SIP）创下新高.md",
+          "bytes": 7870,
+          "compressed_bytes": 3157,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-11-机构G-日元周报：提前选举的可能性突然增加.md",
+          "bytes": 7585,
+          "compressed_bytes": 3445,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-11-机构I-全球债券流量指南：固定收益：2026年稳健开局.md",
+          "bytes": 6255,
+          "compressed_bytes": 2538,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-12-机构A-美国利率观察：新年新资金流入，但久期多头信心减弱.md",
+          "bytes": 6583,
+          "compressed_bytes": 3178,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-12-机构F-开局强劲：固定收益ETF和共同基金在2026年开局强劲.md",
+          "bytes": 6404,
+          "compressed_bytes": 2718,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-12-机构I-梦寐以求：理想的就业数据为风险资产注入强心剂.md",
+          "bytes": 8460,
+          "compressed_bytes": 3847,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-13-机构A-日本国际收支：服务逆差出现再扩大的迹象.md",
+          "bytes": 6611,
+          "compressed_bytes": 2890,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-13-机构B-One资金流与头寸分析：国际股票ETF强劲流入，美国板块轮动；主题与综合债券ETF流入，成长与杠杆ETF流出；CTA买入石油，卖出美国前端利率.md",
+          "bytes": 7716,
+          "compressed_bytes": 3423,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-13-机构D-固定收益每日图表：谁在2026年第一周购买了欧洲政府债券？.md",
+          "bytes": 5669,
+          "compressed_bytes": 2405,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-13-机构F-美国利率波动率交易：投资者偏向做空波动率，但方向性结构显示看涨倾向.md",
+          "bytes": 5878,
+          "compressed_bytes": 2446,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-13-机构G-日元月度资金流向监测：11月对美国和瑞士的大量外国直接投资可能对外汇影响有限.md",
+          "bytes": 7453,
+          "compressed_bytes": 3023,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-14-机构A-美银证券股票客户资金流趋势：连续第六周资金流出，但通信服务流入创纪录.md",
+          "bytes": 6571,
+          "compressed_bytes": 2966,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-15-机构A-韩元：新年旧疾.md",
+          "bytes": 6744,
+          "compressed_bytes": 2975,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-15-机构D-新兴市场本地市场与外部因素：定价几何？-1月更新.md",
+          "bytes": 8030,
+          "compressed_bytes": 3302,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-16-机构A-欧洲股票策略：大宗商品的巨大分歧：采矿与能源.md",
+          "bytes": 8075,
+          "compressed_bytes": 3537,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-16-机构B-新兴市场资金追踪：资金流入创纪录高位，非ETF基金显现生机.md",
+          "bytes": 7043,
+          "compressed_bytes": 3005,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-16-机构C-贝莱德公司（BLK）初步分析：资金流入超预期，内生性基础费率增长12%，业绩费推动营业利润超预期.md",
+          "bytes": 5369,
+          "compressed_bytes": 2366,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-16-机构C-高盛全球策略会议：投资者看好新兴市场股票，石油敏感性成焦点.md",
+          "bytes": 7046,
+          "compressed_bytes": 3292,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-16-机构F-11月TIC数据：外国需求急剧反弹.md",
+          "bytes": 5795,
+          "compressed_bytes": 2428,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-18-机构G-外汇观察：11月TIC及高频数据显示美国投资组合资产流入强劲.md",
+          "bytes": 5600,
+          "compressed_bytes": 2444,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-18-机构H-MBS大涨对信贷市场的连锁反应分析.md",
+          "bytes": 7930,
+          "compressed_bytes": 3447,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-19-机构A-系统性资金流向监测_ 系统性股票仓位接近五年高点.md",
+          "bytes": 7033,
+          "compressed_bytes": 3255,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-19-机构D-德意志银行货币流向分析：真实货币投资者和自主性对冲基金增持黄金.md",
+          "bytes": 6736,
+          "compressed_bytes": 2607,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-20-机构A-美国利率观察：曲线挤压与陡峭化交易平仓.md",
+          "bytes": 6477,
+          "compressed_bytes": 2851,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-20-机构F-12月日本央行加息不确定性加剧，国内投资者净卖出超长期债券.md",
+          "bytes": 6139,
+          "compressed_bytes": 2563,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-20-机构G-三重抛售冲击日本：日本国债、股票和日元暴跌.md",
+          "bytes": 6170,
+          "compressed_bytes": 2862,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-20-机构H-外汇头寸表明投资者做多北欧货币.md",
+          "bytes": 6605,
+          "compressed_bytes": 2799,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-20-机构J-全球外汇策略图表集：日元套利交易仍有空间.md",
+          "bytes": 6868,
+          "compressed_bytes": 3027,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-21-机构B-中国债券分析：截至2025年12月31日的季度.md",
+          "bytes": 6783,
+          "compressed_bytes": 2846,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-21-机构I-飞翔的荷兰人：基金增持中国大陆和韩国，减持中国台湾.md",
+          "bytes": 6759,
+          "compressed_bytes": 2783,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-22-机构A-全球股票波动性洞察：对冲日本国债冲击风险与日经VKO看跌期权策略.md",
+          "bytes": 7433,
+          "compressed_bytes": 3402,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-22-机构A-外汇观察：正相关的套利与趋势支撑高收益货币.md",
+          "bytes": 6542,
+          "compressed_bytes": 2805,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-22-机构F-财政担忧动摇日元利率.md",
+          "bytes": 6641,
+          "compressed_bytes": 3148,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-22-机构H-2025年投资组合交易概览：高(收)益债券交易创历史新高.md",
+          "bytes": 7133,
+          "compressed_bytes": 2981,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-23-机构E-欧洲利率晨报：现有的固定收益流量数据是否证实了‘货币贬值交易’？.md",
+          "bytes": 5556,
+          "compressed_bytes": 2526,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-24-机构C-全球信贷交易员：信贷市场基本不受头条新闻影响.md",
+          "bytes": 9857,
+          "compressed_bytes": 4437,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-24-机构D-利率固收每日图表：外国投资者在年底国债拍卖中大有斩获.md",
+          "bytes": 4408,
+          "compressed_bytes": 1970,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-25-机构A-新兴市场企业战略：低于5%的世界：在新兴市场投资级公司债中买什么.md",
+          "bytes": 8192,
+          "compressed_bytes": 3498,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-25-机构A-跟随资金流：寻求套利，向曲线更长端移动.md",
+          "bytes": 5443,
+          "compressed_bytes": 2349,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-25-机构B-信用市场展望与策略：高评级债券技术面推动利差收窄至新低；关注二月潜在转变.md",
+          "bytes": 7182,
+          "compressed_bytes": 3330,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-26-机构G-日元盘中评论：没有干预，还是非常有效的干预？.md",
+          "bytes": 5536,
+          "compressed_bytes": 2588,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-26-机构H-外汇头寸显示在美联储会议前存在美元指数空头头寸.md",
+          "bytes": 5042,
+          "compressed_bytes": 1963,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-26-机构J-新兴市场固定收益_外汇策略：养老金流出放缓能否提振韩元？.md",
+          "bytes": 7570,
+          "compressed_bytes": 3321,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-27-机构B-One 资金流与头寸分析：资金从美国转向国际股票ETF；新兴市场_综合债券强劲流入，公用事业_通胀_天然气_加密货币ETF流出；资产管理公司出售美国股票和利率期货.md",
+          "bytes": 6108,
+          "compressed_bytes": 2702,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-27-机构G-策略交易：重新发起做多人民币_韩元.md",
+          "bytes": 6228,
+          "compressed_bytes": 3025,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-27-机构J-中国股票策略2025年第四季度公募基金总结：增持电信_有色金属_银行，减持电子_医疗健康_电气设备.md",
+          "bytes": 7139,
+          "compressed_bytes": 2957,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-28-机构H-理解日本投资者：潜在的资金回流风险.md",
+          "bytes": 5674,
+          "compressed_bytes": 2635,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-29-机构B-资金流与流动性.md",
+          "bytes": 6691,
+          "compressed_bytes": 3226,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-30-机构E-中国房地产：“三条红线”政策或将放宽，但短期内不太可能为投资而加杠杆.md",
+          "bytes": 7113,
+          "compressed_bytes": 3242,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-31-机构C-新兴市场每周资金流向监测：MSCI对印尼的咨询引发重大资金外流风险，高盛下调其评级至低配.md",
+          "bytes": 5909,
+          "compressed_bytes": 2681,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-01-31-机构G-特朗普就格陵兰岛问题的紧张局势缓和后，资金重新流入美国投资组合资产.md",
+          "bytes": 5340,
+          "compressed_bytes": 2205,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-01-机构A-资金流向观察：货币贬值是基本情景.md",
+          "bytes": 8258,
+          "compressed_bytes": 3765,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-01-机构B-跨资产波动性：通过衍生品视角看黄金：头寸与交易.md",
+          "bytes": 8759,
+          "compressed_bytes": 3871,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-02-机构B-高等级信贷外国需求监测：FAB指数受欧元驱动反弹；隔夜购买放缓，但1月份总体非常强劲.md",
+          "bytes": 7758,
+          "compressed_bytes": 2932,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-02-机构D-德意志银行货币流向：对冲基金抛售美元兑G10货币；实钱账户买入美元.md",
+          "bytes": 6782,
+          "compressed_bytes": 2643,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-03-机构A-美国业绩监控：1月：科技股下跌，能源股上涨，市场广度扩大的迹象.md",
+          "bytes": 6755,
+          "compressed_bytes": 3009,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-03-机构F-美国利率研究：资金流向：银行和托管机构的美债持仓持续增加.md",
+          "bytes": 6137,
+          "compressed_bytes": 2598,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-03-机构H-脉搏调查：2026年建设性开局.md",
+          "bytes": 5550,
+          "compressed_bytes": 2674,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-04-机构J-欧洲股票策略：美国政策不确定性正在加强业绩驱动的轮动资金流.md",
+          "bytes": 6242,
+          "compressed_bytes": 2873,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-05-机构B-资金流与流动性：评估投资者仓位.md",
+          "bytes": 6715,
+          "compressed_bytes": 3173,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-06-机构A-全球外汇周报：分裂的外汇市场.md",
+          "bytes": 6508,
+          "compressed_bytes": 3042,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-06-机构A-美国消费必需品：探讨：必需品板块飙升——是资金流驱动还是基本面改善？.md",
+          "bytes": 7702,
+          "compressed_bytes": 3659,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-08-机构A-系统性资金流监控：CTA股票多头仓位受考验，但仍完好.md",
+          "bytes": 6101,
+          "compressed_bytes": 2865,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-08-机构B-新兴市场资金流向周报：音乐不停，新兴市场债券基金流入持续，1月本币流入创历史新高.md",
+          "bytes": 5751,
+          "compressed_bytes": 2259,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-08-机构C-中国每周启动：市场因科技股拖累回调1-4%；习近平主席与特朗普总统通话；1月份官方PMI下降而非官方PMI上升.md",
+          "bytes": 6814,
+          "compressed_bytes": 3207,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-08-机构F-新兴市场资金流向：前景浮现阴云.md",
+          "bytes": 4259,
+          "compressed_bytes": 1820,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-09-机构G-1月份外国债券和股票交易及投资者趋势：投资信托增持外国股票；银行的外国债券购买停滞.md",
+          "bytes": 7000,
+          "compressed_bytes": 2943,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-09-机构H-AI市场波动与跨资产配置展望.md",
+          "bytes": 5541,
+          "compressed_bytes": 2595,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-09-机构J-全球策略：CTA的头寸与资金流向.md",
+          "bytes": 5798,
+          "compressed_bytes": 2658,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-11-机构E-全球量化宏观策略：震荡行情中长线基金与对冲基金的板块资金流向.md",
+          "bytes": 5790,
+          "compressed_bytes": 2162,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-11-机构J-中国股票策略：55-60万亿人民币的到期储蓄将如何影响A股市场？.md",
+          "bytes": 8011,
+          "compressed_bytes": 3640,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-12-机构B-日本资金流与外汇头寸：外国主导的日元头寸调整.md",
+          "bytes": 5175,
+          "compressed_bytes": 2137,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-12-机构E-新兴市场信贷周报_穿越波动.md",
+          "bytes": 7986,
+          "compressed_bytes": 3909,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-13-机构C-每周资金流向：流入周期性资产的资金放缓.md",
+          "bytes": 5636,
+          "compressed_bytes": 2514,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-15-机构A-追踪资金流：谁说波动性回来了？多年低位的利率波动推动更多资金流入.md",
+          "bytes": 5364,
+          "compressed_bytes": 2388,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-15-机构B-新兴市场资金流向周报：一触即发，新兴市场债券基金在稳定资金流入中驰骋向前.md",
+          "bytes": 5720,
+          "compressed_bytes": 2394,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-15-机构C-韩国零售资金外流加速：事实与市场影响.md",
+          "bytes": 6580,
+          "compressed_bytes": 3017,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-15-机构I-货币展望：信号与噪音.md",
+          "bytes": 10177,
+          "compressed_bytes": 4824,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-17-机构C-新兴韧性.md",
+          "bytes": 7844,
+          "compressed_bytes": 3405,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-17-机构H-可持续性中的国防：2025财年基金持仓情况.md",
+          "bytes": 6480,
+          "compressed_bytes": 2911,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-21-机构B-新兴市场资金流向周报：动能加速，硬通货债券基金录得三年来最大单周流入.md",
+          "bytes": 5256,
+          "compressed_bytes": 2181,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-21-机构B-日本量化策略：关注地缘政治风险 – 管理银行股回调，并在资本品_半导体超卖时寻找买入机会.md",
+          "bytes": 6772,
+          "compressed_bytes": 3077,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-21-机构C-共同基金基本面：股市广度提升助推共同基金回报.md",
+          "bytes": 8015,
+          "compressed_bytes": 3505,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-21-机构E-资金流向洞察_ 资金流在规模和广度上均保持积极态势.md",
+          "bytes": 6290,
+          "compressed_bytes": 2631,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-21-机构G-TIC与高频数据显示美国股市持续流入，债市资金流出.md",
+          "bytes": 5582,
+          "compressed_bytes": 2213,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-22-机构A-投资级信用策略：风险正在积聚.md",
+          "bytes": 8244,
+          "compressed_bytes": 3815,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-22-机构A-系统性资金流向监测：股市上涨支撑CTA多头；其他资产趋势正在转变.md",
+          "bytes": 6863,
+          "compressed_bytes": 3132,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-23-机构A-美国利率观察：久期需求旺盛.md",
+          "bytes": 6525,
+          "compressed_bytes": 2838,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-23-机构C-高盛全球资产配置策略：市场情绪与资金流向轮动.md",
+          "bytes": 6502,
+          "compressed_bytes": 2759,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-23-机构D-市场进一步增持日元多头头寸.md",
+          "bytes": 6983,
+          "compressed_bytes": 3207,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-24-机构C-全球市场日报：以色列谢克尔（ILS）——一种具有多重优势的对冲工具.md",
+          "bytes": 7111,
+          "compressed_bytes": 3172,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-25-机构D-失宠了？对美股的迷恋降温可能拖累美元.md",
+          "bytes": 6156,
+          "compressed_bytes": 2799,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-26-机构A-2月MSCI再平衡：27日做空USDILS并做多USDKRW.md",
+          "bytes": 7003,
+          "compressed_bytes": 2871,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-26-机构B-美国国债市场日报：7年期国债拍卖前瞻.md",
+          "bytes": 5289,
+          "compressed_bytes": 2371,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-26-机构E-中国房地产：迎来转机，政策推动下成交量反弹趋稳.md",
+          "bytes": 7337,
+          "compressed_bytes": 3524,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-27-机构A-资金流入新兴市场债券，贷款资金流出.md",
+          "bytes": 5131,
+          "compressed_bytes": 2162,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-27-机构E-新兴市场持续跑赢：美国最高法院IEEPA裁决提振EM表现.md",
+          "bytes": 8905,
+          "compressed_bytes": 4031,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-28-机构C-每周资金流向：全球基准基金需求依然强劲.md",
+          "bytes": 6728,
+          "compressed_bytes": 2817,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-02-28-机构D-全球利率估值、流动性、头寸与资金流：2026年第一季度更新.md",
+          "bytes": 5560,
+          "compressed_bytes": 2411,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-01-机构A-投资级信用策略：供给状况.md",
+          "bytes": 7570,
+          "compressed_bytes": 3452,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-01-机构B-中国本地市场周报：战术性止盈离岸人民币多头.md",
+          "bytes": 7524,
+          "compressed_bytes": 3314,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-02-机构A-美国利率观察：久期买盘能否持续？.md",
+          "bytes": 5623,
+          "compressed_bytes": 2645,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-02-机构D-德意志银行货币流向：G10货币中的美元卖盘持续.md",
+          "bytes": 6765,
+          "compressed_bytes": 2702,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-02-机构H-全球资金流向：二月回顾.md",
+          "bytes": 5559,
+          "compressed_bytes": 2486,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-03-机构F-欧洲政府债券策略：谁在2025年第四季度购买了欧洲政府债券？.md",
+          "bytes": 6174,
+          "compressed_bytes": 2633,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-03-机构I-投资者配置：资金流前景乐观，非ETF偏好欧洲，工业股受冷落.md",
+          "bytes": 7465,
+          "compressed_bytes": 3212,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-04-机构H-亚洲新兴市场股票策略：资金流向与持仓指南.md",
+          "bytes": 6597,
+          "compressed_bytes": 2792,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-05-机构F-极度分化的波动率格局：商品与利率市场呈现两极.md",
+          "bytes": 5476,
+          "compressed_bytes": 2365,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-06-机构A-短即长，长即短：地缘政治与市场情绪的博弈.md",
+          "bytes": 6623,
+          "compressed_bytes": 3473,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-08-机构A-系统性流量监控_ CTA股票头寸在大幅平仓后接近转折点.md",
+          "bytes": 6561,
+          "compressed_bytes": 3074,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-08-机构B-新兴市场资金流向周报：势不可挡，新兴市场债券基金流入量创历史新高.md",
+          "bytes": 6348,
+          "compressed_bytes": 2699,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-08-机构C-每周资金流向：能源基金流入增加.md",
+          "bytes": 5710,
+          "compressed_bytes": 2343,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-08-机构D-投资者仓位与资金流向：多空头寸普遍削减.md",
+          "bytes": 7438,
+          "compressed_bytes": 3413,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-08-机构G-中东不确定性背景下，美国投资组合资产流入略有改善（以债券为主）.md",
+          "bytes": 7906,
+          "compressed_bytes": 2881,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-09-机构B-日本资金流向与外汇头寸：亚洲时段美元_日元将随能源价格上涨而走高.md",
+          "bytes": 6247,
+          "compressed_bytes": 2410,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-09-机构C-日本：国际收支：1月外国游客支出三个月来首次同比增长；外国人继续大量净买入日本资产.md",
+          "bytes": 6721,
+          "compressed_bytes": 2780,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-09-机构F-美国利率研究：资金流向：前端资金流入.md",
+          "bytes": 6813,
+          "compressed_bytes": 2820,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-09-机构G-日元月度资金流向监测：2月份银行引领大规模外国债券抛售.md",
+          "bytes": 6490,
+          "compressed_bytes": 2741,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-10-机构B-大宗商品市场头寸与资金流向：能源价格飙升，未平仓合约量重返年内高点.md",
+          "bytes": 7015,
+          "compressed_bytes": 2867,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-10-机构E-中东冲突引发新兴市场外汇避险情绪.md",
+          "bytes": 5608,
+          "compressed_bytes": 2811,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-11-机构A-情况室：韧性需求 = 巨大供给.md",
+          "bytes": 5019,
+          "compressed_bytes": 2288,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-11-机构B-Fintech & Crypto-加密货币市场：2月加密货币月度报告：生态系统估值下降但交易量增加；多重消息下的“观望”；ETH Strawmap发布.md",
+          "bytes": 7708,
+          "compressed_bytes": 3587,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-12-机构B-解放日以来对冲基金最严重的回撤.md",
+          "bytes": 8765,
+          "compressed_bytes": 3505,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-14-机构A-系统性资金流向监测：石油驱动的风险导致CTA在股票、利率和美元头寸上的转变.md",
+          "bytes": 6563,
+          "compressed_bytes": 3019,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-14-机构C-每周资金流向：能源基金流入.md",
+          "bytes": 5558,
+          "compressed_bytes": 2394,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-14-机构D-油价波动已处于极端水平：油价冲击有多大？.md",
+          "bytes": 7086,
+          "compressed_bytes": 3194,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-14-机构E-外汇流周报：美元转为资金流出.md",
+          "bytes": 9221,
+          "compressed_bytes": 4091,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-16-机构B-欧洲资金流追踪：2月资金流入全面增强.md",
+          "bytes": 8662,
+          "compressed_bytes": 3417,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-16-机构E-股票市场仓位模型：看跌资金流拖累投资者情绪.md",
+          "bytes": 6544,
+          "compressed_bytes": 2906,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-18-机构A-全球基金经理调查：现金激增但股市未现投降.md",
+          "bytes": 7361,
+          "compressed_bytes": 3076,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-18-机构B-跨资产波动性：2022年深度剖析、石油与黄金更新、FOMC与机器学习模型更新.md",
+          "bytes": 8545,
+          "compressed_bytes": 3907,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-18-机构F-多空之辩：冲突来袭，信念动摇.md",
+          "bytes": 7150,
+          "compressed_bytes": 3125,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-18-机构G-日本股市备忘录：海外股票投资信托人气下降，日本股票投资信托资金流入回升.md",
+          "bytes": 6575,
+          "compressed_bytes": 2985,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-19-机构A-全球股票仓位：资金买入非美资产.md",
+          "bytes": 6237,
+          "compressed_bytes": 2886,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-20-机构A-3月FOMC会议：观望态度.md",
+          "bytes": 4628,
+          "compressed_bytes": 2340,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-21-机构C-欧洲市场周报：质量股迎来转折点.md",
+          "bytes": 6735,
+          "compressed_bytes": 2994,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-22-机构A-全球外汇周报：利率节奏紊乱.md",
+          "bytes": 6802,
+          "compressed_bytes": 3078,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-22-机构D-反映战争、AI与增长忧虑：地缘政治冲击下的股市定位与资金流动.md",
+          "bytes": 6562,
+          "compressed_bytes": 2848,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-22-机构D-基金资金流揭示了什么？.md",
+          "bytes": 3973,
+          "compressed_bytes": 1515,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-22-机构E-资金流洞察：美国ETF季节性流入强劲，但赎回范围扩大.md",
+          "bytes": 4883,
+          "compressed_bytes": 1889,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-23-机构A-美债市场观察：头寸与基本面的博弈.md",
+          "bytes": 5268,
+          "compressed_bytes": 2448,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-23-机构H-外汇头寸显示投资者减少欧元空头头寸.md",
+          "bytes": 4327,
+          "compressed_bytes": 1749,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-24-机构B-One资金流与持仓分析：美股及加拿大、中东北非股市获增持，印度、新兴市场、黄金及高收益债遭减持.md",
+          "bytes": 7459,
+          "compressed_bytes": 3518,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-24-机构D-外国官方投资者是否在抛售美国国债？.md",
+          "bytes": 4794,
+          "compressed_bytes": 2350,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-24-机构G-金融市场已开始定价停火预期：兼顾经济复苏与居高不下的油价.md",
+          "bytes": 6152,
+          "compressed_bytes": 2830,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-25-机构B-商品市场头寸与资金流：黄金主导的去风险化.md",
+          "bytes": 7906,
+          "compressed_bytes": 3187,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-25-机构E-花旗全球量化宏观策略：资金流显示能源、医疗保健和材料板块受青睐.md",
+          "bytes": 4738,
+          "compressed_bytes": 2031,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-26-机构A-投资级信用市场重回原点：伊朗战争影响与技术面主导.md",
+          "bytes": 4909,
+          "compressed_bytes": 2288,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-26-机构B-投资者重建现金配置，重演2022年情景.md",
+          "bytes": 8328,
+          "compressed_bytes": 3605,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构A-投资级信用市场的拉锯战：技术面与伊朗战争风险的博弈.md",
+          "bytes": 5185,
+          "compressed_bytes": 2412,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构A-美银证券：市场进入政策恐慌阶段，消费板块成逆向投资首选.md",
+          "bytes": 6752,
+          "compressed_bytes": 3229,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构B-中国本地市场周报：人民币中间价走弱与油价管控缓解通胀压力.md",
+          "bytes": 6264,
+          "compressed_bytes": 2772,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构B-新兴市场资金流向：流出趋缓但存在反复.md",
+          "bytes": 6566,
+          "compressed_bytes": 2816,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构C-新兴市场资金流周报：伊朗冲突后北亚遭遇持续外资抛售.md",
+          "bytes": 6473,
+          "compressed_bytes": 2707,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构G-外资撤离日本股市：地缘风险与货币政策预期双重压力.md",
+          "bytes": 5568,
+          "compressed_bytes": 2720,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-28-机构I-全球债券资金流向指南：能源依赖度分化新兴市场本币债资金外流.md",
+          "bytes": 5846,
+          "compressed_bytes": 2404,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-30-机构A-资金流追踪：去风险化迹象显现.md",
+          "bytes": 6391,
+          "compressed_bytes": 2674,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-30-机构B-One资金流与持仓动态：美国_能源_低波动率ETF获青睐，国际_波动率_黄金_公司债遭抛售.md",
+          "bytes": 6352,
+          "compressed_bytes": 2937,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-30-机构E-新兴市场信用周报：中东冲突持续但信用利差收窄.md",
+          "bytes": 5153,
+          "compressed_bytes": 2225,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-31-机构A-美国投资级债券4月供给展望：春季休整.md",
+          "bytes": 5212,
+          "compressed_bytes": 2239,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-31-机构B-伊朗冲突引发新兴市场基金抛售：油价飙升与滞胀担忧加剧.md",
+          "bytes": 4827,
+          "compressed_bytes": 2253,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-03-31-机构H-摩根士丹利跨资产焦点报告：能源冲击下的市场重估.md",
+          "bytes": 5872,
+          "compressed_bytes": 2451,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-01-机构G-日本股市资金流监测：个人与企业行动资金流保持稳健.md",
+          "bytes": 4797,
+          "compressed_bytes": 2046,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-02-机构A-美欧信用市场头寸轮动：做多美国，做空欧洲.md",
+          "bytes": 5095,
+          "compressed_bytes": 2159,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-06-机构A-系统性资金流动监测：CTA的抛售倾向仍横跨股票和债券.md",
+          "bytes": 4166,
+          "compressed_bytes": 2095,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-06-机构F-美国利率研究：资金流向：托管持仓及长期需求反弹.md",
+          "bytes": 3742,
+          "compressed_bytes": 1762,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-06-机构G-共同基金股票流入预览：散户是在逢低卖出还是在买入恐惧？预计26年3月股票流入强劲；ICICI_Nippon在流量市场份额中表现突出.md",
+          "bytes": 5016,
+          "compressed_bytes": 2451,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-07-机构H-跨资产聚焦 _ 全球：不确定性持续.md",
+          "bytes": 4434,
+          "compressed_bytes": 2174,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-07-机构J-中国股票策略：衡量市场风格：增量资金流入视角.md",
+          "bytes": 4861,
+          "compressed_bytes": 2417,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-08-机构B-新兴市场资本流动：本地投资者的防御堡垒.md",
+          "bytes": 5084,
+          "compressed_bytes": 2548,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-08-机构B-月球的背面.md",
+          "bytes": 5293,
+          "compressed_bytes": 2569,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-08-机构F-日本资金流向更新：3月中东局势紧张引发从外国债券向外国股票的再平衡；外资创纪录净卖出日本股票.md",
+          "bytes": 4437,
+          "compressed_bytes": 1886,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-08-机构G-3月外国债券与股票交易及投资者动向：银行和寿险公司大举抛售外国债券；投资信托加大逢低买入外国股票的力度.md",
+          "bytes": 5300,
+          "compressed_bytes": 2267,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-08-机构J-关于中国量化投资你需要知道的——月度更新：有什么独特之处？发生了什么变化？事情将如何演变？.md",
+          "bytes": 5807,
+          "compressed_bytes": 2802,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-12-机构B-JPM外汇头寸监测：停火协议下美元多头仅温和，全球储备多元化趋势延续.md",
+          "bytes": 3933,
+          "compressed_bytes": 2032,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-12-机构C-新兴市场每周启动：美伊停火后MSCI EM反弹，高盛维持超配韩国、中国、巴西和南非.md",
+          "bytes": 5410,
+          "compressed_bytes": 2666,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-12-机构E-花旗：全球资金流向洞察：欧美股市获大幅净流入，日韩市场表现分化.md",
+          "bytes": 5612,
+          "compressed_bytes": 2473,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-12-机构F-巴克莱：冲突降级带来希望，股市反弹优于原油.md",
+          "bytes": 4811,
+          "compressed_bytes": 2445,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-12-机构I-全球债券资金流向指南：选择性增持.md",
+          "bytes": 5219,
+          "compressed_bytes": 2339,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-14-机构A-美银全球研究：投资者对短端美债风险持怀疑态度，尚未准备好买入.md",
+          "bytes": 5265,
+          "compressed_bytes": 2455,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-14-机构B-中东停火引发风险偏好回升：股票与信贷ETF资金大幅流入，CTA重新加杠杆.md",
+          "bytes": 5589,
+          "compressed_bytes": 2751,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-14-机构H-G10外汇策略：期权头寸显示投资者在试探性停火期间增加做空美元指数头寸.md",
+          "bytes": 4744,
+          "compressed_bytes": 2019,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-15-机构A-美银证券：前端信用利差偏低，有望跑赢.md",
+          "bytes": 3651,
+          "compressed_bytes": 1821,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-15-机构B-股权波动率策略：离散度图表集.md",
+          "bytes": 5498,
+          "compressed_bytes": 2345,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-16-机构I-亚洲外汇聚焦：人民币——放缓升值步伐.md",
+          "bytes": 4920,
+          "compressed_bytes": 2380,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-17-机构E-花旗资金流向洞察：美股与全球基金获净流入，欧洲及中国ETF遭遇大幅赎回.md",
+          "bytes": 5647,
+          "compressed_bytes": 2416,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-19-机构C-新兴市场每周资金流向监测：台湾领涨，共同基金增持韩国减持中国.md",
+          "bytes": 4926,
+          "compressed_bytes": 2146,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-19-机构E-外汇资金流周报：实际货币持续抛售美元并买入新兴市场货币.md",
+          "bytes": 6330,
+          "compressed_bytes": 2887,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-19-机构H-SMA风格指南：零售独立管理账户的投资偏好与策略分析.md",
+          "bytes": 5770,
+          "compressed_bytes": 2679,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-19-机构I-全球债券资金流向指南：寻求新兴市场套息交易.md",
+          "bytes": 4169,
+          "compressed_bytes": 1960,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-20-机构B-欧洲资金流向追踪：3月长期净流入转负，但一季度环比增长.md",
+          "bytes": 5188,
+          "compressed_bytes": 2160,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-21-机构B-One资金流与持仓：风险偏好回升，股票获大幅买入，货币基金流出创纪录.md",
+          "bytes": 6619,
+          "compressed_bytes": 3110,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-22-机构C-美洲资产管理：私募信贷4月资金流入趋稳，业绩逆风将持续.md",
+          "bytes": 5122,
+          "compressed_bytes": 2555,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-22-机构H-亚洲新兴市场股票策略：探索资金流与持仓信号——实用指南.md",
+          "bytes": 8595,
+          "compressed_bytes": 3624,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-25-机构C-全球信用交易员：追踪信贷情绪与持仓，欧元银行股建议沿资本结构上移.md",
+          "bytes": 5402,
+          "compressed_bytes": 2702,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-25-机构C-欧洲每周策略启动：2026年一季度财报季早期观察与资产配置观点.md",
+          "bytes": 6740,
+          "compressed_bytes": 3207,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-26-机构A-跟随资金流向：高收益债与新兴市场债务基金流入强劲反弹.md",
+          "bytes": 5384,
+          "compressed_bytes": 2313,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-26-机构B-日本寿险公司隐藏的资本外流：再保险渠道对日元的结构性压力.md",
+          "bytes": 4746,
+          "compressed_bytes": 2061,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-26-机构E-花旗：头寸具有条件性——优化反向头寸外汇篮子策略.md",
+          "bytes": 4596,
+          "compressed_bytes": 2259,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-26-机构F-巴克莱市政债周报：免税债券有望跑赢，关注高评级债券价值.md",
+          "bytes": 5921,
+          "compressed_bytes": 2886,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-26-机构G-野村晨会纪要：外资对日股看法转变，银行股兴趣减弱，关注日元贬值风险.md",
+          "bytes": 5127,
+          "compressed_bytes": 2498,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-27-机构A-美银全球研究：核电主题配置正当时，看好铀矿及核电ETF.md",
+          "bytes": 4353,
+          "compressed_bytes": 2280,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-27-机构B-股票混合雷达：跨资产相关性与交易分析（2026年4月）.md",
+          "bytes": 4936,
+          "compressed_bytes": 2289,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-27-机构C-高盛：市场情绪反弹，美股风险偏好回升至战前水平.md",
+          "bytes": 4859,
+          "compressed_bytes": 2282,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-27-机构H-日本利率策略：似曾相识？寿险公司2026财年投资计划与收益率曲线展望.md",
+          "bytes": 5494,
+          "compressed_bytes": 2592,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-28-机构A-4月外汇再平衡：资金从新兴市场流向发达市场.md",
+          "bytes": 4674,
+          "compressed_bytes": 2298,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-29-机构C-信用策略笔记：单B级高收益债风险已今非昔比.md",
+          "bytes": 7005,
+          "compressed_bytes": 3025,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-04-30-机构I-投资者资金流向：美国受益于风险偏好回升；欧洲股票持仓分析揭示逆向信号.md",
+          "bytes": 7204,
+          "compressed_bytes": 3285,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-02-机构C-欧洲每周启动：上调2026年盈利目标，大宗商品板块升级.md",
+          "bytes": 5117,
+          "compressed_bytes": 2480,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-02-机构G-野村日本股票策略周报：五月开局“卖出”声浪减弱，看好实体AI与银行股.md",
+          "bytes": 5974,
+          "compressed_bytes": 2965,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-05-机构A-4月美国投资级债券评级：强劲上调.md",
+          "bytes": 5148,
+          "compressed_bytes": 2322,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-05-机构H-摩根士丹利跨资产聚焦：宏观交叉趋势与资金流向监测.md",
+          "bytes": 4074,
+          "compressed_bytes": 2033,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-05-机构J-瑞银全球策略：战术性看好大盘股而非小盘股的13个理由.md",
+          "bytes": 5504,
+          "compressed_bytes": 2791,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-06-机构B-中国房地产：黄金周保持稳健；目标约20%上涨空间.md",
+          "bytes": 9159,
+          "compressed_bytes": 4056,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-06-机构H-中国_香港资金流向与持仓月度追踪：2026年4月.md",
+          "bytes": 4625,
+          "compressed_bytes": 2272,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-07-机构B-股票波动率策略：Gamma供应与财报分散度更新.md",
+          "bytes": 8909,
+          "compressed_bytes": 4031,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-10-机构C-MSCI新兴市场指数周涨8%，受北亚市场提振；因韩国和台湾AI_科技盈利强劲，我们上调MSCI新兴市场指数目标至1850点.md",
+          "bytes": 8013,
+          "compressed_bytes": 3527,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-10-机构F-股票市场回顾：等待和平中的扩展.md",
+          "bytes": 7564,
+          "compressed_bytes": 3447,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-10-机构G-5月第一周美国主题基金资金流入反弹.md",
+          "bytes": 6127,
+          "compressed_bytes": 2532,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-11-机构A-系统性资金流监测：CTA股票再冒险步伐趋缓，而美债空头接近极限.md",
+          "bytes": 8600,
+          "compressed_bytes": 3659,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-11-机构B-新兴市场资金流向周报：全球不确定性持续，新兴市场债券基金流入放缓.md",
+          "bytes": 7463,
+          "compressed_bytes": 2951,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-11-机构E-新兴市场信用晴雨表周报：进一步收紧.md",
+          "bytes": 6962,
+          "compressed_bytes": 2905,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-12-机构A-全球股票波动率洞察.md",
+          "bytes": 10646,
+          "compressed_bytes": 4697,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-12-机构C-巴西营销之旅：资金流逆转担忧及大宗商品与债券代理平衡配置.md",
+          "bytes": 10603,
+          "compressed_bytes": 4722,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-12-机构H-中断与重启？信号、资金流与关键数据：每周跨资产监测总结.md",
+          "bytes": 6375,
+          "compressed_bytes": 3073,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-13-机构A-美银证券股票客户资金流趋势：科技板块上涨期间大型科技股获资金流入.md",
+          "bytes": 7073,
+          "compressed_bytes": 2961,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-13-机构B-日本资金流向与外汇头寸：干预后渡边太太转为做多美元_日元和交叉盘日元.md",
+          "bytes": 5184,
+          "compressed_bytes": 2160,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-14-机构G-日元月度资金流动监控：外国投资者4月创纪录购买日本股票.md",
+          "bytes": 7229,
+          "compressed_bytes": 2943,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-15-机构A-美联储准备金管理购买：微调融资阀门：融资过于宽松？缩减准备金管理购买.md",
+          "bytes": 9387,
+          "compressed_bytes": 4198,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-15-机构A-资金流向周报.md",
+          "bytes": 7916,
+          "compressed_bytes": 3561,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-15-机构B-流动性与资金流向：再论即将到来的IPO引发的股票供需.md",
+          "bytes": 6733,
+          "compressed_bytes": 3286,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-15-机构D-日本国际交易——外国债券流动（2026年3月）.md",
+          "bytes": 7155,
+          "compressed_bytes": 2906,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-17-机构A-系统性流量监测：股票买入放缓，国债空头接近极限.md",
+          "bytes": 8324,
+          "compressed_bytes": 3775,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-17-机构C-新兴市场每周速览.md",
+          "bytes": 12071,
+          "compressed_bytes": 5073,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-18-机构B-贵金属：有限度的偏爱.md",
+          "bytes": 11991,
+          "compressed_bytes": 5141,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-18-机构F-美国利率研究：资金流动.md",
+          "bytes": 7270,
+          "compressed_bytes": 3166,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-18-机构G-外汇洞察：资金持续流入美国基金，新兴市场基金有小幅流出.md",
+          "bytes": 4785,
+          "compressed_bytes": 2091,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-19-机构A-态势室：以更低成本滚动.md",
+          "bytes": 6833,
+          "compressed_bytes": 2994,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-19-机构B-美国国债市场日报：3月TIC数据更新.md",
+          "bytes": 5034,
+          "compressed_bytes": 2355,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-20-机构E-板块资金快讯更新：模型看好科技板块，因长期资金强劲流入.md",
+          "bytes": 5982,
+          "compressed_bytes": 2455,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-20-机构F-日本国债交易数据：4月投资较上月恢复.md",
+          "bytes": 7750,
+          "compressed_bytes": 3054,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-20-机构I-亚洲外汇聚焦：人民币：并非不受外部逆境影响.md",
+          "bytes": 5684,
+          "compressed_bytes": 2668,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-21-机构F-ETF指南：机器与欧元——平仓布局.md",
+          "bytes": 7324,
+          "compressed_bytes": 3504,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-22-机构B-新兴市场资金追踪：资金流趋稳，科技板块仍严重流出.md",
+          "bytes": 8276,
+          "compressed_bytes": 3153,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-22-机构C-直接贷款文摘：信贷趋势正常化，分化加剧，利差微扩及零售净流出增加.md",
+          "bytes": 6476,
+          "compressed_bytes": 3095,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-22-机构K-你的第一次追加保证金通知：仓位下跌后，您有哪些选择来补充账户？.md",
+          "bytes": 3960,
+          "compressed_bytes": 1657,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-24-机构B-新兴市场资金流周报：压力下新兴市场债券基金资金流入放缓.md",
+          "bytes": 8033,
+          "compressed_bytes": 3125,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-24-机构C-每周资金流向：欧洲再度买入美国.md",
+          "bytes": 10267,
+          "compressed_bytes": 3669,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-25-机构A-韩元处于十字路口：韩国央行、国民年金公团及地方选举在即.md",
+          "bytes": 9207,
+          "compressed_bytes": 4229,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-26-机构A-美银证券股票客户资金流向趋势：零售客户引领抛售，连续第二周资金外流.md",
+          "bytes": 6333,
+          "compressed_bytes": 2786,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-26-机构B-One 流量与持仓分析.md",
+          "bytes": 11538,
+          "compressed_bytes": 4824,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-26-机构F-美国利率研究：四周资金流入量创一年来新高.md",
+          "bytes": 9702,
+          "compressed_bytes": 4088,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-27-机构A-情况室：利差几乎重回年内低点.md",
+          "bytes": 6425,
+          "compressed_bytes": 2838,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-27-机构K-部分指数加速纳入大规模IPO.md",
+          "bytes": 3987,
+          "compressed_bytes": 1933,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-28-机构A-全球利率与外汇观察：五月外汇再平衡——从新兴市场及美元转向英镑、欧元和日元.md",
+          "bytes": 5932,
+          "compressed_bytes": 2645,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-28-机构F-ETF指南：跨资产ETF波动率诊断.md",
+          "bytes": 5883,
+          "compressed_bytes": 2570,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-29-机构A-形势简报：乘风破浪.md",
+          "bytes": 7190,
+          "compressed_bytes": 3273,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-31-机构C-日本周度策略启动：将东证指数目标从4200上调至4400.md",
+          "bytes": 4454,
+          "compressed_bytes": 2115,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-05-31-机构I-全球债券资金流向指南：保持谨慎.md",
+          "bytes": 4849,
+          "compressed_bytes": 2277,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-01-机构A-主动管理者持仓更新：金融板块暴露创纪录新低；半导体、能源获增持但未过热.md",
+          "bytes": 10909,
+          "compressed_bytes": 4814,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-01-机构B-新兴市场资金流动周报：势头持续，延长休战提供缓解，新兴市场债券基金流入加速.md",
+          "bytes": 4421,
+          "compressed_bytes": 1958,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-01-机构C-持仓目标：追踪科技股涨势中的头寸.md",
+          "bytes": 6766,
+          "compressed_bytes": 3264,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-01-机构F-美国利率研究：资金流：月度债券基金流入创纪录.md",
+          "bytes": 10614,
+          "compressed_bytes": 4427,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-02-机构A-中国利率与外汇：少有人走的路.md",
+          "bytes": 5177,
+          "compressed_bytes": 2697,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-02-机构A-形势室：五月投资级评级强劲.md",
+          "bytes": 5047,
+          "compressed_bytes": 2109,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-02-机构B-海峡封闭三月未解：十大持股平衡油气与重启赢家，当前油价隐含短期开放预期——但我们认为极不可能.md",
+          "bytes": 9137,
+          "compressed_bytes": 4553,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-03-机构G-野村：植田讲话预示6月加息但非加速，美元兑日元或再测160.md",
+          "bytes": 4837,
+          "compressed_bytes": 2419,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-04-机构B-跨资产策略亮点：动量与FOMO拥挤度战术观点.md",
+          "bytes": 4824,
+          "compressed_bytes": 2322,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-04-机构H-亚洲新兴市场股票策略：资金流向与持仓指南.md",
+          "bytes": 4308,
+          "compressed_bytes": 2157,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-05-机构A-结构性利差收紧：美国投资级信用债市场分析.md",
+          "bytes": 5171,
+          "compressed_bytes": 2557,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-05-机构B-新兴市场资金流向：流出加剧且范围扩大.md",
+          "bytes": 4618,
+          "compressed_bytes": 2028,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-05-机构C-全球市场日报：日本资金回流对日元的影响.md",
+          "bytes": 5401,
+          "compressed_bytes": 2682,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-07-机构C-新兴市场每周资金流向监测：外资大幅流出韩国与中国台湾，北亚散户杠杆上升.md",
+          "bytes": 5763,
+          "compressed_bytes": 2501,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-08-机构A-追逐收益成为普遍现象：全球固定收益基金流入创六年新高.md",
+          "bytes": 5272,
+          "compressed_bytes": 2214,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-08-机构E-香港房地产：投资者反馈；等待上半年财报成为下一个催化剂.md",
+          "bytes": 6967,
+          "compressed_bytes": 3302,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-08-机构F-日元：家庭海外资产投资及其对日元的影响.md",
+          "bytes": 5814,
+          "compressed_bytes": 2722,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-09-机构B-Fintech & Crypto-加密货币市场月报：价格滞后，低波动环境下活动持续下滑；Hyperliquid吸引公开市场投资者关注.md",
+          "bytes": 5957,
+          "compressed_bytes": 2860,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-09-机构B-日本股票策略：资金流支撑长期上涨趋势.md",
+          "bytes": 6140,
+          "compressed_bytes": 2736,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-09-机构D-中国资本重返澳大利亚：外汇市场观点.md",
+          "bytes": 4569,
+          "compressed_bytes": 2059,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-09-机构G-5月日本投资者跨境交易与资金流向分析：养老金创纪录轮动，外资股净卖出.md",
+          "bytes": 4953,
+          "compressed_bytes": 2214,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-10-机构C-香港银行：解答关于香港存款及中国内地跨境投资的常见问题.md",
+          "bytes": 6224,
+          "compressed_bytes": 3020,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-13-机构B-摩根大通：新兴市场资金流向周报——债券基金现4月中旬以来首次周度净流出.md",
+          "bytes": 4413,
+          "compressed_bytes": 1923,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-13-机构C-新兴市场每周资金流向监测：外资持续流出，零售投资者强劲买入；印度国内基金流入放缓；富时指数再平衡前瞻.md",
+          "bytes": 5782,
+          "compressed_bytes": 2536,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构A-系统性资金流监测：CTA股票多头减仓，美债空头回补风险上升.md",
+          "bytes": 5354,
+          "compressed_bytes": 2666,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构A-美国利率观察：在海峡与沃什之间：空头回补可能尚未结束.md",
+          "bytes": 4119,
+          "compressed_bytes": 2018,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构B-增长风格延续：中美信贷脉冲信号支持成长股优于价值股.md",
+          "bytes": 3307,
+          "compressed_bytes": 1566,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构C-中国：SAFE数据显示5月出现外汇流入.md",
+          "bytes": 5023,
+          "compressed_bytes": 2153,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构D-德意志银行货币资金流向：实钱投资者增加对G10货币的美元抛售.md",
+          "bytes": 4844,
+          "compressed_bytes": 2292,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构E-与不确定性共存：新兴市场信用周报.md",
+          "bytes": 4773,
+          "compressed_bytes": 2109,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-15-机构F-美国利率波动率定位：投资者逢低买入波动率，Receiver结构受青睐.md",
+          "bytes": 4479,
+          "compressed_bytes": 2121,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-17-机构I-绿色债券洞察：来自路演与数据的五大主题.md",
+          "bytes": 5587,
+          "compressed_bytes": 2494,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-18-机构I-外汇快讯：陆家嘴论坛关于人民币国际化的初步解读.md",
+          "bytes": 4107,
+          "compressed_bytes": 1878,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-19-机构G-野村晨会报告：外汇干预时机的两种视角——等待美债利率稳定还是优先稳定日债？.md",
+          "bytes": 4993,
+          "compressed_bytes": 2421,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-21-机构B-新兴市场资金流向：赎回放缓，GEM外流缓解.md",
+          "bytes": 5793,
+          "compressed_bytes": 2528,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-22-机构F-美国利率策略：资金流向分析.md",
+          "bytes": 5791,
+          "compressed_bytes": 2489,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-22-机构G-日本宏观策略：5月JSDA债券交易与投资者趋势分析.md",
+          "bytes": 6352,
+          "compressed_bytes": 2797,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-23-机构A-美银全球研究：10年期投资级债券利差相对便宜.md",
+          "bytes": 4199,
+          "compressed_bytes": 2007,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-24-机构F-巴克莱：6月月末及季末外汇再平衡显示美元中性.md",
+          "bytes": 3594,
+          "compressed_bytes": 1752,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-25-机构C-中国券商与资管：评估对TRS监管重新聚焦的影响.md",
+          "bytes": 4793,
+          "compressed_bytes": 2524,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-25-机构I-韩元：何时迎来AI“红利”？.md",
+          "bytes": 5989,
+          "compressed_bytes": 2764,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-27-机构I-全球债券资金流向指南：韧性显现.md",
+          "bytes": 4135,
+          "compressed_bytes": 1993,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-28-机构A-系统性资金流监测：CTA美债空头回补加剧，股票多头持仓坚守.md",
+          "bytes": 5815,
+          "compressed_bytes": 2817,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-28-机构B-摩根大通：新兴市场资金流向周报——债券基金连续第二周流入，股票基金大幅回流.md",
+          "bytes": 5053,
+          "compressed_bytes": 2228,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-29-机构A-美银证券：欧洲资产管理资金流向追踪与私募市场展望.md",
+          "bytes": 6178,
+          "compressed_bytes": 2951,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-29-机构E-花旗：宏观波动加剧，新兴市场信用利差走阔.md",
+          "bytes": 4636,
+          "compressed_bytes": 2135,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-29-机构H-G10外汇策略：期权头寸显示投资者增加做空澳元.md",
+          "bytes": 3620,
+          "compressed_bytes": 1583,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-30-机构A-亚洲（除中国）资金流向：5月股票组合外流加深.md",
+          "bytes": 4631,
+          "compressed_bytes": 1884,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-30-机构B-摩根大通：亚洲股票期货获买盘支撑，ETF资金流向内存芯片与半导体，大宗商品遭抛售.md",
+          "bytes": 5866,
+          "compressed_bytes": 2882,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-06-30-机构C-终端价值辩论与强劲的EPS增长轨迹：高盛美洲资本市场股票策略报告.md",
+          "bytes": 9236,
+          "compressed_bytes": 4003,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-02-机构A-6月日本家庭海外投资加速：关注7月资金流向与干预风险.md",
+          "bytes": 4434,
+          "compressed_bytes": 2093,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-02-机构A-市政债券季度回顾：宏观波动下的稳定表现与2026年展望.md",
+          "bytes": 6015,
+          "compressed_bytes": 2859,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-03-机构A-The Flow Show：红白蓝与繁荣——美银全球资金流向与资产配置策略.md",
+          "bytes": 5594,
+          "compressed_bytes": 2693,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-05-机构B-EM Flows Weekly：新兴市场经济体债券基金流入转负，股票基金大幅流出.md",
+          "bytes": 4874,
+          "compressed_bytes": 2087,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-05-机构C-中国每周启动：MSCI中国指数反弹3%，A股盘整；证监会发布再融资新规草案.md",
+          "bytes": 4026,
+          "compressed_bytes": 2023,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-05-机构G-日元资金流特别报告：GPIF在2025财年稳健买入日本国债.md",
+          "bytes": 4754,
+          "compressed_bytes": 2247,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-06-机构C-资金流向周报：能源板块资金流出，科技与债市获青睐.md",
+          "bytes": 5868,
+          "compressed_bytes": 2442,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-06-机构H-G10外汇策略：期权头寸显示投资者增加英镑多头及美元空头.md",
+          "bytes": 4288,
+          "compressed_bytes": 1856,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-07-机构B-中国：加强对离岸人民币的支持及下半年人民币汇率驱动因素.md",
+          "bytes": 5666,
+          "compressed_bytes": 2631,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-08-机构A-Situation Room：最大供应不确定性.md",
+          "bytes": 6678,
+          "compressed_bytes": 3065,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-08-机构F-日本资金流向更新：6月日本投资者继续从外国股票再平衡至外国债券，海外投资者抛售日元资产.md",
+          "bytes": 7194,
+          "compressed_bytes": 2344,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-08-机构G-野村证券：NISA资金流出或致日元6月走弱，外资净抛售日本股债.md",
+          "bytes": 5642,
+          "compressed_bytes": 2514,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-09-机构A-G10外汇流向与持仓：6月FOMC后美元需求对比瑞郎和加元.md",
+          "bytes": 6288,
+          "compressed_bytes": 2618,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-09-机构F-ETF指南：记忆狂热与韩国焦虑.md",
+          "bytes": 5137,
+          "compressed_bytes": 2581,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-10-机构E-花旗：市场回调下资金流改善，中国基金迎来4月以来首次净流入.md",
+          "bytes": 4813,
+          "compressed_bytes": 2150,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-11-机构B-日本固定收益市场周报：GPIF作为潜在JGB后盾.md",
+          "bytes": 5398,
+          "compressed_bytes": 2660,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-11-机构C-全球资金流向周报：股票与固收基金净流入回升，科技股与美元受追捧.md",
+          "bytes": 4531,
+          "compressed_bytes": 2017,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-11-机构C-韩国每周市场启动：KOSPI前瞻市盈率跌至6.2倍，看好下半年广泛投资机会.md",
+          "bytes": 4287,
+          "compressed_bytes": 2208,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-13-机构A-美银全球资金流向：无衰退、无降息、无加息、无熊市.md",
+          "bytes": 6365,
+          "compressed_bytes": 3076,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-13-机构B-日本利率主题：关于GPIF的思考.md",
+          "bytes": 5275,
+          "compressed_bytes": 2533,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-13-机构G-7月外资持续流入美股基金：新兴市场ETF资金回暖，韩国与台湾投资者减持美元资产.md",
+          "bytes": 4588,
+          "compressed_bytes": 2054,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-15-机构A-美银证券股票客户资金流向趋势：金融板块迎来逾十年最大流入，机构客户买入近创纪录.md",
+          "bytes": 4740,
+          "compressed_bytes": 2117,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-15-机构C-TIC数据：5月私人投资者持续净买入美国国债.md",
+          "bytes": 4129,
+          "compressed_bytes": 1791,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-15-机构H-摩根士丹利：2026年6月中国_香港资金流向与持仓追踪.md",
+          "bytes": 6343,
+          "compressed_bytes": 2743,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-16-机构A-主动管理者持仓更新：分歧、多元化与 disrupted.md",
+          "bytes": 6154,
+          "compressed_bytes": 3018,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-17-机构A-资金流向：流入床垫而非市场.md",
+          "bytes": 4457,
+          "compressed_bytes": 2081,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-17-机构D-日本国际交易：外国债券流向（2026年5月）.md",
+          "bytes": 5254,
+          "compressed_bytes": 2142,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-18-机构C-冷静、沉着与套利：高盛全球外汇交易员观点.md",
+          "bytes": 8365,
+          "compressed_bytes": 3932,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-18-机构C-新兴市场每周启动：动量重置，基本面完好.md",
+          "bytes": 4694,
+          "compressed_bytes": 2383,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-18-机构D-全球资产配置：投资者仓位与资金流向.md",
+          "bytes": 4132,
+          "compressed_bytes": 2163,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-18-机构I-亚洲外汇聚焦：人民币——逆势而行.md",
+          "bytes": 4971,
+          "compressed_bytes": 2369,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-19-机构A-资金流向追踪：政府债券流入领先于信用债.md",
+          "bytes": 4673,
+          "compressed_bytes": 2166,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-20-机构K-贝塔加权投资组合：期货策略.md",
+          "bytes": 1437,
+          "compressed_bytes": 737,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-21-机构A-美国利率观察：分化市场下的两类买家.md",
+          "bytes": 4098,
+          "compressed_bytes": 2058,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-21-机构B-欧洲资金流向追踪：二季度欧美长期净流量环比持平，保险资金持续流入.md",
+          "bytes": 7479,
+          "compressed_bytes": 2772,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-21-机构D-美元在全球资本竞争中风险上升：从地缘政治领导到技术领导的转变.md",
+          "bytes": 4222,
+          "compressed_bytes": 2270,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-22-机构A-美银证券股票客户资金流向趋势：零售客户创逾一年来最大单周买入.md",
+          "bytes": 5926,
+          "compressed_bytes": 2563,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-23-机构A-美国利率观察：7月货币市场基金流出，加权平均期限缩短.md",
+          "bytes": 5184,
+          "compressed_bytes": 2465,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-23-机构B-摩根大通外汇策略：利用低波动率构建美元_日元上行风险收益结构.md",
+          "bytes": 6266,
+          "compressed_bytes": 2782,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-24-机构A-美银全球研究：债券流入放缓，股票出现流出.md",
+          "bytes": 4312,
+          "compressed_bytes": 2056,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-24-机构B-新兴市场资金流周报：债券基金流入持续，股票基金流入放缓.md",
+          "bytes": 4662,
+          "compressed_bytes": 2126,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-24-机构B-高市经济学下的GPIF投资：潜在投资策略转变的市场影响.md",
+          "bytes": 4761,
+          "compressed_bytes": 2236,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-24-机构K-中国芯片、加密货币法案与利差走势.md",
+          "bytes": 4387,
+          "compressed_bytes": 2001,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-25-机构C-新兴市场每周启动：二季度财报超预期，地缘冲突下市场分化.md",
+          "bytes": 6273,
+          "compressed_bytes": 2964,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-27-机构K-单只股票期货：它们是什么以及如何使用.md",
+          "bytes": 3950,
+          "compressed_bytes": 1948,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-28-机构J-CTA双周更新：极端风险偏好下的仓位与资金流向.md",
+          "bytes": 6480,
+          "compressed_bytes": 3067,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-29-机构A-外汇观察：瑞士法郎——剖析6月外汇储备的大幅增长.md",
+          "bytes": 4651,
+          "compressed_bytes": 2213,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-29-机构H-追踪欧元可赎回债券发行：做多欧元波动率与做空美元波动率的相对价值策略.md",
+          "bytes": 6609,
+          "compressed_bytes": 2756,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-31-机构B-新兴市场资金流向周报：债券基金现流出，股票基金流入加速.md",
+          "bytes": 4907,
+          "compressed_bytes": 2201,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-31-机构C-日本股市周报：一季度财报强劲，警惕AI板块拥挤交易风险.md",
+          "bytes": 3869,
+          "compressed_bytes": 2000,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-31-机构C-高盛：新兴市场周报：科技股反弹带动指数上涨，预计市场将向非科技板块扩散.md",
+          "bytes": 6007,
+          "compressed_bytes": 2574,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-07-31-机构E-亚洲外汇与利率策略：7月资金流向综述.md",
+          "bytes": 5720,
+          "compressed_bytes": 2530,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-01-机构A-跟随资金流向：宏观疲软导致高收益债流入减弱，投资级债券持续吸金.md",
+          "bytes": 4497,
+          "compressed_bytes": 1883,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-01-机构D-黄金爆炸性阶段持续：德意志银行维持2026年底4600美元_盎司预测.md",
+          "bytes": 6350,
+          "compressed_bytes": 2952,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-01-机构I-观点转变：动量反转与金发姑娘行情.md",
+          "bytes": 6284,
+          "compressed_bytes": 2996,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-03-机构D-外汇空头头寸信号在各大区域均有所缓解.md",
+          "bytes": 7003,
+          "compressed_bytes": 2852,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-03-机构E-美国利率策略：日本财务省如何避免抛售美债.md",
+          "bytes": 6304,
+          "compressed_bytes": 2666,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-04-机构B-日本股票策略：美日联合外汇干预及对日本股市的影响——日元贬值逆转利好股价.md",
+          "bytes": 6537,
+          "compressed_bytes": 2920,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-04-机构G-松泽晨会报告：美日协调干预汇市背后议程各异，9月加息概率仍为50%.md",
+          "bytes": 4454,
+          "compressed_bytes": 2282,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-05-机构B-亚太股票衍生品策略：KOSPI2伽马重置但未出清，波动率粘性仍存；利用KO看涨期权和铁鹰价差 monetize 丰富波动率.md",
+          "bytes": 8666,
+          "compressed_bytes": 3898,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-05-机构G-野村晨会纪要：贝森特警示亚洲货币危机风险，日本股市债市展望.md",
+          "bytes": 4526,
+          "compressed_bytes": 2328,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-06-机构H-亚洲新兴市场股票策略：资金流向与持仓指南.md",
+          "bytes": 5528,
+          "compressed_bytes": 2349,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-07-机构C-新兴市场每周资金流向监测：外资持续抛售韩国，印度流入持续；亚洲股票7月遭遇对冲基金最大规模减仓.md",
+          "bytes": 7013,
+          "compressed_bytes": 3016,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-07-机构G-日元资金流特别报告：GPIF国内债券持仓稳定，近期大规模回流可能性低.md",
+          "bytes": 5291,
+          "compressed_bytes": 2508,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-07-机构H-中国_香港资金流向与持仓月度追踪：2026年7月.md",
+          "bytes": 5983,
+          "compressed_bytes": 2679,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-09-机构A-系统资金流监测：CTA重返股票多头，美债与黄金空头面临考验.md",
+          "bytes": 6066,
+          "compressed_bytes": 3052,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-09-机构C-人民币债券国际化的历史性机遇？.md",
+          "bytes": 5883,
+          "compressed_bytes": 2602,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-09-机构I-全球债券资金流向指南：重审日本资金回流辩论.md",
+          "bytes": 6496,
+          "compressed_bytes": 2857,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-10-机构J-黄金突破关键阻力位：对港股及A股黄金股转向更积极.md",
+          "bytes": 6491,
+          "compressed_bytes": 2846,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-11-机构A-全球股票波动率洞察：夏季平静是否预示着秋季风暴前的 rally？.md",
+          "bytes": 5858,
+          "compressed_bytes": 2731,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-11-机构B-大宗商品市场持仓与资金流向：金属复苏.md",
+          "bytes": 6564,
+          "compressed_bytes": 2605,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-12-机构K-STAX世代趋势：X世代逢低买入.md",
+          "bytes": 3778,
+          "compressed_bytes": 1819,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-13-机构A-美银全球研究：跨资产观点与投资者常见问答.md",
+          "bytes": 10557,
+          "compressed_bytes": 4616,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-14-机构A-资金流向秀：四十岁开始的纷争——美债收益率飙升下的资产配置策略.md",
+          "bytes": 5863,
+          "compressed_bytes": 2914,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-14-机构B-新兴市场资金流向周报：债券基金连续第二周净流入，股票基金流入放缓.md",
+          "bytes": 5731,
+          "compressed_bytes": 2349,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-14-机构C-新兴市场资金流向周报：外资重返韩台，MSCI调仓影响前瞻.md",
+          "bytes": 7145,
+          "compressed_bytes": 3108,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-14-机构E-资金流向洞察：债券基金流入强劲，新兴市场资金持续外流.md",
+          "bytes": 5591,
+          "compressed_bytes": 2343,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-17-机构B-One资金流与持仓：半导体持续流出，管理基金增持布伦特原油.md",
+          "bytes": 5403,
+          "compressed_bytes": 2706,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-17-机构J-CTA双周更新：强劲财报重燃股票动能，美元大幅平仓.md",
+          "bytes": 5564,
+          "compressed_bytes": 2743,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-18-机构C-全球市场日报：欧洲定息基金——欧元信贷的边际支撑正在减弱.md",
+          "bytes": 4869,
+          "compressed_bytes": 2257,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-18-机构D-日本国际交易：外国债券流动（2026年6月）.md",
+          "bytes": 5082,
+          "compressed_bytes": 2315,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-18-机构I-亚洲外汇聚焦：人民币——中间价持平，结汇销售下降.md",
+          "bytes": 4600,
+          "compressed_bytes": 2203,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-19-机构G-6月TIC数据：美股资金持续强劲流入，美债流入显著放缓.md",
+          "bytes": 4570,
+          "compressed_bytes": 1981,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构A-持仓动向：美国优于欧洲——CDS指数持仓的起伏.md",
+          "bytes": 5557,
+          "compressed_bytes": 2554,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构B-新兴市场资金流向周报：四月伊始股债双流出，亚洲除日本外股市遭遇大幅抛售.md",
+          "bytes": 5609,
+          "compressed_bytes": 2489,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构B-点心债市场：结构性增长故事与选择性价值机会.md",
+          "bytes": 5594,
+          "compressed_bytes": 2547,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构B-香港股票策略：在政策噪音中积累筹码.md",
+          "bytes": 6232,
+          "compressed_bytes": 3081,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构D-储备争夺战的新前线：美元信用受损下的黄金与人民币机遇.md",
+          "bytes": 5038,
+          "compressed_bytes": 2612,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构D-日本国债供需与资金流：2026年7月国内资金支撑，外资再平衡.md",
+          "bytes": 6077,
+          "compressed_bytes": 2708,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构F-日本资金流向更新：4月养老金再平衡推动从外债转向外股，海外投资者多年净买入日股_日债.md",
+          "bytes": 5950,
+          "compressed_bytes": 2321,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构F-日本资金流向更新：7月持续从外国股票再平衡至外国债券.md",
+          "bytes": 5880,
+          "compressed_bytes": 2361,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构F-日本资金流更新：7月日债投资进一步放缓.md",
+          "bytes": 4665,
+          "compressed_bytes": 1910,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构G-日元月度资金流向监测：养老金基金净卖出海外股票，NISA资金流持续施压日元.md",
+          "bytes": 6635,
+          "compressed_bytes": 2881,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构H-美联储会议前美元空头头寸温和增加.md",
+          "bytes": 4154,
+          "compressed_bytes": 1651,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-20-机构J-瑞银外汇资金流向监测：对冲基金回补美元空头，看好AUDCAD.md",
+          "bytes": 4175,
+          "compressed_bytes": 2069,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-21-机构B-加密货币市场：7月代币小幅升值难掩生态活动持续恶化，交易量同比仍降约70%.md",
+          "bytes": 5826,
+          "compressed_bytes": 2879,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-21-机构B-新兴市场资金流向：ETF主导流入，非ETF流出放缓.md",
+          "bytes": 5196,
+          "compressed_bytes": 2477,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-21-机构C-巴西资金在选举窗口期流出：全球基金流向周报.md",
+          "bytes": 4994,
+          "compressed_bytes": 2007,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-21-机构E-资金流向洞察：债基流入214亿美元，股基流入401亿美元.md",
+          "bytes": 5079,
+          "compressed_bytes": 2162,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-23-机构I-全球债券资金流向指南：新兴市场本币债面临混合外部信号.md",
+          "bytes": 5471,
+          "compressed_bytes": 2656,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-25-机构F-中国加强离岸财富监管：宏观影响与未来展望.md",
+          "bytes": 5894,
+          "compressed_bytes": 2797,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-25-机构G-7月以来ETF资金大幅回流：保持平衡，科技与防御并重.md",
+          "bytes": 4678,
+          "compressed_bytes": 2295,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-27-机构I-资金轮动加速涌入中国内地股市：亚洲基金超配创多年新高，持续减持韩国与中国台湾.md",
+          "bytes": 4758,
+          "compressed_bytes": 2175,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-28-机构A-欧洲股票策略：利率压力与防御性配置.md",
+          "bytes": 5500,
+          "compressed_bytes": 2661,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-28-机构B-新兴市场资金流向周报：债券基金迎来12周最大净流入，股票基金流入加速.md",
+          "bytes": 5388,
+          "compressed_bytes": 2371,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-28-机构C-新兴市场资金流向周报：8月中国台湾与印度领涨外资买入，韩国遭大幅抛售.md",
+          "bytes": 6626,
+          "compressed_bytes": 2852,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-28-机构F-新兴市场资金流向：债券表现优于股票.md",
+          "bytes": 3409,
+          "compressed_bytes": 1560,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-29-机构A-系统性资金流监测：美债空头拥挤与股票多头高企推动CTA获利.md",
+          "bytes": 6194,
+          "compressed_bytes": 2856,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-08-31-机构A-美债观察：政策支撑与投资者疑虑并存，久期风险仍受谨慎对待.md",
+          "bytes": 6749,
+          "compressed_bytes": 3044,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-01-机构A-技术优势：跳出困境.md",
+          "bytes": 6046,
+          "compressed_bytes": 2774,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-01-机构H-外汇头寸显示杰克逊霍尔会议后投资者增加美元多头头寸.md",
+          "bytes": 4807,
+          "compressed_bytes": 1968,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-02-机构H-全球资金流向：8月回顾与跨资产策略展望.md",
+          "bytes": 4330,
+          "compressed_bytes": 2054,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-03-机构C-开学季归来，新兴市场前景向好：股票反弹与外汇套利策略.md",
+          "bytes": 5117,
+          "compressed_bytes": 2409,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-03-机构D-dbMetals：全金属流向报告：骑兵已至.md",
+          "bytes": 5317,
+          "compressed_bytes": 2529,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-04-机构C-新兴市场每周启动：预期年底指数进一步上涨及板块扩散，巴西股市 rally.md",
+          "bytes": 2445,
+          "compressed_bytes": 1465,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-04-机构C-日本股市周报：外资持续流入，超配机械、IT与银行板块.md",
+          "bytes": 5503,
+          "compressed_bytes": 2507,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-05-机构A-中国资金流透视月报：流动性中性，市场广度停滞，板块轮动持续.md",
+          "bytes": 8364,
+          "compressed_bytes": 3580,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-05-机构A-全球利率与外汇观点：外汇储备叙事再审视.md",
+          "bytes": 5202,
+          "compressed_bytes": 2533,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-05-机构D-投资者定位与资金流向：标普500在狭窄区间内震荡.md",
+          "bytes": 4934,
+          "compressed_bytes": 2361,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-07-机构H-亚洲新兴市场股票策略：资金流向与持仓指南.md",
+          "bytes": 5860,
+          "compressed_bytes": 2673,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-08-机构B-大宗商品市场持仓与资金流向：能源与农产品推动未平仓合约创历史新高，铜价看涨.md",
+          "bytes": 5522,
+          "compressed_bytes": 2493,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-08-机构C-高盛外汇研究笔记：日本投资组合再配置仍多为投机.md",
+          "bytes": 3718,
+          "compressed_bytes": 1654,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-08-机构D-德意志银行货币资金流：对冲基金持续主导G10货币兑美元抛售.md",
+          "bytes": 5564,
+          "compressed_bytes": 2284,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-08-机构F-美国利率研究：资金流向分析——哑铃型配置策略凸显.md",
+          "bytes": 5226,
+          "compressed_bytes": 2181,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-08-机构G-日元资本流动监测：8月日本投资者净买入海外证券，GPIF国内债券配置未见明显增加.md",
+          "bytes": 5048,
+          "compressed_bytes": 2199,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-09-机构A-美银证券股票客户资金流向趋势：流入科技_成长股，流出工业股.md",
+          "bytes": 4316,
+          "compressed_bytes": 2103,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-10-机构B-JPM每日信用策略更新：2Q26高评级信用基本面回顾与曲线机会.md",
+          "bytes": 4397,
+          "compressed_bytes": 1969,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-10-机构D-dbMetals：整体资金流报告——铜市拥挤但多头不足，钯金面临CTA抛售压力.md",
+          "bytes": 5382,
+          "compressed_bytes": 2717,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-11-机构A-资金流向周报：柴油价格成实体经济痛点，美银牛熊指标发出卖出信号.md",
+          "bytes": 5063,
+          "compressed_bytes": 2488,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-11-机构C-每周资金流向：通胀保值债券基金持续流入，科技股获最大净流入.md",
+          "bytes": 5060,
+          "compressed_bytes": 2065,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-11-机构F-新兴市场资金流向：中国效应主导债券流入，第四季度关注巴西选举与美联储政策.md",
+          "bytes": 4666,
+          "compressed_bytes": 2186,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-12-机构C-新兴市场每周启动：能源与利率风险上升，超配台湾、韩国及巴西.md",
+          "bytes": 7434,
+          "compressed_bytes": 3456,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-14-机构A-系统性资金流监测：CTA股票头寸脆弱性增加，趋势跟踪者在其他领域加强持仓.md",
+          "bytes": 6713,
+          "compressed_bytes": 3103,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-14-机构D-谁在推高日元：外资大幅平仓与日本宏观转变.md",
+          "bytes": 4361,
+          "compressed_bytes": 2038,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-15-机构A-美银9月全球基金经理调查：宏观繁荣与AI资本支出信念强劲，债券无序上升风险加剧.md",
+          "bytes": 5611,
+          "compressed_bytes": 2563,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-15-机构C-全球市场日报：外资流入美国信贷市场的底部支撑.md",
+          "bytes": 5650,
+          "compressed_bytes": 2578,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-15-机构D-德意志银行金属流动报告：Warsh主席会是连续加息者吗？.md",
+          "bytes": 4746,
+          "compressed_bytes": 2415,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-16-机构B-资金流与流动性：科技债发行对收益率影响可控，比特币相对黄金更具支撑.md",
+          "bytes": 6823,
+          "compressed_bytes": 3159,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-16-机构C-中国：外管局数据显示8月外汇流入增加.md",
+          "bytes": 4763,
+          "compressed_bytes": 2012,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-17-机构E-新兴市场信用周报：支持性的鹰派立场？.md",
+          "bytes": 5914,
+          "compressed_bytes": 3113,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-18-机构E-资金流向洞察：新兴市场与亚洲外资流出，美股ETF获季节性流入.md",
+          "bytes": 4813,
+          "compressed_bytes": 2155,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-18-机构F-新兴市场资金流向：全球基金犹豫不决，秋季前景趋中性.md",
+          "bytes": 3794,
+          "compressed_bytes": 1773,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-19-机构C-中国每周市场启动：市场持平，香港发布首个五年计划，下调中国GDP预测.md",
+          "bytes": 5166,
+          "compressed_bytes": 2591,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-20-机构A-资金流向追踪：债市流出股市流入，高收益债遭遇六个月最大撤资.md",
+          "bytes": 5512,
+          "compressed_bytes": 2464,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-20-机构B-JPM外汇头寸监测：美元自7月底以来首次出现买入迹象.md",
+          "bytes": 4974,
+          "compressed_bytes": 2191,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-21-机构D-德银金属流动报告：算法清算下的钯金风险与铜的稀缺性.md",
+          "bytes": 5536,
+          "compressed_bytes": 2722,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-22-机构F-宏观风险累积下的美股资金流向与衍生品市场洞察：对冲基金减仓与长线资金流入的博弈.md",
+          "bytes": 5312,
+          "compressed_bytes": 2650,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-23-机构A-美银证券股票客户资金流向趋势：中盘股流入创纪录，重返股票买入.md",
+          "bytes": 6471,
+          "compressed_bytes": 2814,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-24-机构F-日本国债交易数据：8月投资额创三个月新高.md",
+          "bytes": 5183,
+          "compressed_bytes": 2226,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-24-机构I-外汇快照：人民币——买预期，卖事实.md",
+          "bytes": 5189,
+          "compressed_bytes": 2302,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-25-机构A-股市疲软，贷款强劲，投资级债券表现尚可.md",
+          "bytes": 5106,
+          "compressed_bytes": 2333,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-25-机构B-中国本地市场周报：央行中间价信号与8月资金流回顾.md",
+          "bytes": 7225,
+          "compressed_bytes": 3188,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-25-机构G-中期美元走弱观点图解.md",
+          "bytes": 7341,
+          "compressed_bytes": 3473,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-25-机构I-全球债券资金流向指南：需求放缓.md",
+          "bytes": 5845,
+          "compressed_bytes": 2583,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-26-机构B-摩根大通外汇头寸监测：美元买盘加速，关注加拿大资产抛售.md",
+          "bytes": 5548,
+          "compressed_bytes": 2363,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-27-机构A-系统资金流监测：CTA跟随美股涨势，维持美债空头并买入美元.md",
+          "bytes": 7156,
+          "compressed_bytes": 3272,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-28-机构F-美国利率研究：资金流向分析——曲线延长，短端需求降温.md",
+          "bytes": 6341,
+          "compressed_bytes": 2986,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-28-机构G-外资回流美股：9月FOMC鹰派会议后资金动向分析.md",
+          "bytes": 4619,
+          "compressed_bytes": 1976,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-29-机构B-大宗商品市场持仓与资金流向：能源价格回落带动未平仓合约价值下降.md",
+          "bytes": 5929,
+          "compressed_bytes": 2673,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-30-机构A-美银证券股票客户资金流向趋势：上周出现净流出，但更多税务亏损抛售可能尚未到来.md",
+          "bytes": 5995,
+          "compressed_bytes": 2768,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-30-机构F-股票策略：持仓更清晰，但年末反弹取决于油价下跌.md",
+          "bytes": 5952,
+          "compressed_bytes": 2943,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-09-30-机构I-投资者配置：资金流入强劲季度，英国受青睐而法国失宠.md",
+          "bytes": 6884,
+          "compressed_bytes": 3205,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-01-机构D-黄金投降：被忽视、超卖且低配.md",
+          "bytes": 5245,
+          "compressed_bytes": 2662,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-02-机构A-跟随资金流向：不确定性持续，高评级基金再现流出.md",
+          "bytes": 5893,
+          "compressed_bytes": 2555,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-02-机构C-新兴市场每周资金流向监测：韩国与印度遭遇外资抛售，亚洲对冲基金连续四个月净卖出.md",
+          "bytes": 4599,
+          "compressed_bytes": 1997,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-02-机构E-资金流向洞察：新兴市场流入收窄，中国ETF获大幅净流入.md",
+          "bytes": 4694,
+          "compressed_bytes": 2023,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-02-机构F-新兴市场资金流向：全球债券基金流出受控，中国科技类基金持续吸金.md",
+          "bytes": 4349,
+          "compressed_bytes": 2119,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-05-机构F-美国利率研究：资金流向分析.md",
+          "bytes": 3545,
+          "compressed_bytes": 1688,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-05-机构G-GPIF未讨论资产组合调整令日元多头失望：日本对法债敞口高但抛压有限，政府赋予央行加息灵活性.md",
+          "bytes": 5817,
+          "compressed_bytes": 2734,
+          "directory": false
+        },
+        {
+          "path": "上科大版本摘要/2026-10-06-机构B-One资金流与持仓：债券暴跌引发创纪录逢低买入，半导体去风险化.md",
+          "bytes": 4812,
+          "compressed_bytes": 2351,
+          "directory": false
+        }
+      ],
+      "total_bytes": 6042982
+    }
+  },
+  "outer_sha256": "a08d796ada5d76ba009bc9a6c4ce48052893cfa874dcefac07dd350f589be44d",
+  "inner_sha256": "c40390410ecb2c04217a81bc73ad8f112700cccdf8599fe84a74798ffe087e6c",
+  "logical_payload_files": 1046,
+  "logical_payload_bytes": 1971528009
+}

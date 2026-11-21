@@ -1,0 +1,37 @@
+{
+  "started_at": 1794141457.888695,
+  "checks": {
+    "anonymous_blocked": true,
+    "viewer_login": true,
+    "viewer_write_rejected": true,
+    "viewer_admin_rejected": true,
+    "graphql_dashboard": true,
+    "origin_rejected": true,
+    "logout_revokes_bearer": true,
+    "admin_login": true,
+    "feature_service": true,
+    "model_service": true,
+    "alert_service": true,
+    "caffeine_used": true,
+    "openapi": true,
+    "swagger_local_assets": true,
+    "websocket_bridge": true,
+    "monitor": true,
+    "agent_config_no_call": true,
+    "real_pdf_archive": true,
+    "pdf_pages": true,
+    "pdf_original": true
+  },
+  "pdf": {
+    "id": "05df057105145f158b7b364fca6b93aa74100c387d46f24ff20b3110ddc227b8",
+    "sha256": "3a7b73d5201e352d2ce6437dc6d349b70317e08d5d8a4efa9001185696655c0e",
+    "pages": 31,
+    "publication_verified": false
+  },
+  "models": [
+    "dd50efa6f61911bab1c78b84",
+    "f7817b51d0d3aa6d431a2adb",
+    "d0bffd0df16dc38a9357dc2f"
+  ],
+  "finished_at": 1794141460.732828
+}

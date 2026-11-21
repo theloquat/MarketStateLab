@@ -1,0 +1,17 @@
+{
+  "task_id": "871bcbe8fe984f748e251e9c",
+  "research_id": "8d9e6a12b1ed2ce410a34dea",
+  "usage": {
+    "completion_tokens": 297,
+    "prompt_tokens": 339,
+    "total_tokens": 636
+  },
+  "provider_call_count": 2,
+  "automatic_retries": 0,
+  "proposal_status_before_approval": "proposed",
+  "tool": "event_evidence",
+  "successful_calls": 1,
+  "failed_calls": 1,
+  "total_tokens_including_failed_attempt": 1600,
+  "first_failure": "default thinking mode consumed 600 output tokens; no JSON; no automatic retry"
+}

@@ -1,0 +1,10 @@
+{
+  "synthetic_topic": "quantos.retention-probe.9629f51f091d46b3",
+  "required_offset": 1,
+  "new_beginning_offset": 4,
+  "silently_skipped": false,
+  "blocked": true,
+  "error": "Kafka保留期缺口：需要偏移1，当前范围[4,5]；停止消费，须显式重建",
+  "official_topics_modified": false,
+  "paid_calls": 0
+}

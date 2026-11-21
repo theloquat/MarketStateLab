@@ -1,0 +1,17 @@
+<clickhouse>
+  <max_server_memory_usage>1600000000</max_server_memory_usage>
+  <max_thread_pool_size>256</max_thread_pool_size>
+  <background_pool_size>16</background_pool_size>
+  <background_schedule_pool_size>4</background_schedule_pool_size>
+  <mark_cache_size>16777216</mark_cache_size>
+  <uncompressed_cache_size>8388608</uncompressed_cache_size>
+  <logger><level>warning</level></logger>
+  <!-- This local profile keeps query/part evidence, but disables high-volume
+       internal trace sampling and per-second metric history. Live system tables
+       and Docker logs remain available. Avoid days of unused telemetry in the local profile. -->
+  <asynchronous_metric_log remove="1"/>
+  <metric_log remove="1"/>
+  <trace_log remove="1"/>
+  <processors_profile_log remove="1"/>
+  <text_log remove="1"/>
+</clickhouse>

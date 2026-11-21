@@ -1,0 +1,17 @@
+.git
+.venv
+.env
+.quantos-contest
+data
+tmp
+output
+docs
+deploy/contest/secrets.env
+**/node_modules
+frontend/dist
+frontend/coverage
+**/__pycache__
+.pytest_cache
+.coverage
+*.log
+services/**/target

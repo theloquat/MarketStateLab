@@ -1,0 +1,62 @@
+{
+  "scenario": "90s mixed load / 120 staggered users / 1 complete replays / configured input rate 1000 (0=unpaced)",
+  "http_report": "performance-http-node-20261108-122603.json",
+  "replays": [
+    {
+      "run_id": "e16808317bda4266a695036d",
+      "scenario": "90s mixed load / 120 staggered users / 1 complete replays / configured input rate 1000 (0=unpaced)",
+      "configured_input_rate": 1000,
+      "batch_stream_parity": {
+        "reference": "9d6783650adf569ca9040c7d",
+        "max_probability_difference": 1.1934897514720433e-13
+      },
+      "effective_observations_per_second": 954.4773578663786,
+      "throughput_scope": "one 64652-observation real replay including setup/warmup/processing; not a sustained capacity upper-bound test",
+      "task_id": "43663f8f923f40669bbe642e",
+      "received_unique_states": 861,
+      "expected_states": 861,
+      "seconds": 67.73550320905633,
+      "scope": "actual official historical replay at configured input rate (0=unpaced); end-to-end window-trigger in Flink -> calculation -> Kafka -> model/MySQL -> outbox/Kafka/Redis -> WS/Java -> client; excludes event-time day waiting and source ingress before watermark",
+      "end_to_end": {
+        "p50_ms": 24.908,
+        "p95_ms": 76.713,
+        "p99_ms": 263.75019999999915
+      },
+      "feature": {
+        "p50_ms": 1.0,
+        "p95_ms": 3.0,
+        "p99_ms": 7.0
+      },
+      "inference": {
+        "p50_ms": 0.006208,
+        "p95_ms": 0.011959,
+        "p99_ms": 0.023866799999999935
+      },
+      "phases": {
+        "state_kafka_queue_ms": {
+          "p50_ms": 7.511343,
+          "p95_ms": 28.812292,
+          "p99_ms": 82.86658499999962
+        },
+        "state_preparation_ms": {
+          "p50_ms": 1.616542,
+          "p95_ms": 5.209167,
+          "p99_ms": 11.113349799999993
+        },
+        "state_persist_and_relay_ms": {
+          "p50_ms": 8.901,
+          "p95_ms": 31.147917,
+          "p99_ms": 72.24198339999994
+        },
+        "redis_ws_client_ms": {
+          "p50_ms": 3.441911,
+          "p95_ms": 9.894666,
+          "p99_ms": 42.56364459999989
+        }
+      },
+      "paid_calls": 0
+    }
+  ],
+  "paid_calls": 0,
+  "scope_limit": "bounded mixed soak; not a multi-day durability test or a 100k/s saturated-input benchmark"
+}

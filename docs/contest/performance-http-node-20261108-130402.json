@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-11-08T13:04:02.927Z",
+  "client": "Node built-in http / 6 worker threads / keepalive / body read and JSON validated",
+  "users": 120,
+  "request_pattern": "120 authenticated users, synchronized burst, one request each second for 20 seconds",
+  "successful_requests": 2400,
+  "errors": [],
+  "endpoint_latency": {
+    "/api/features/latest/811c1fb306314f52a1bdf820": {
+      "p50_ms": 38.505333000000064,
+      "p95_ms": 90.00508300000001,
+      "p99_ms": 131.6304580000001
+    },
+    "/api/models/f7817b51d0d3aa6d431a2adb": {
+      "p50_ms": 34.57258299999921,
+      "p95_ms": 83.246625,
+      "p99_ms": 118.74745799999982
+    },
+    "/api/alerts/811c1fb306314f52a1bdf820": {
+      "p50_ms": 38.940582999999606,
+      "p95_ms": 92.69079199999987,
+      "p99_ms": 133.32074999999986
+    },
+    "/graphql": {
+      "p50_ms": 45.56745800000044,
+      "p95_ms": 99.54174999999987,
+      "p99_ms": 128.9967919999999
+    }
+  },
+  "client_latency": {
+    "p50_ms": 40.38350000000082,
+    "p95_ms": 92.69079199999987,
+    "p99_ms": 131.9889579999999
+  },
+  "gateway_duration": {
+    "p50_ms": 28.03725,
+    "p95_ms": 65.649708,
+    "p99_ms": 93.323666
+  },
+  "auth": {
+    "p50_ms": 0.360708,
+    "p95_ms": 2.019417,
+    "p99_ms": 4.419542
+  },
+  "revocation": {
+    "p50_ms": 0.279084,
+    "p95_ms": 1.756167,
+    "p99_ms": 3.613125
+  },
+  "queue": {
+    "p50_ms": 25.299458,
+    "p95_ms": 63.529792,
+    "p99_ms": 90.811083
+  },
+  "effective_requests_per_second": 120,
+  "raw_pipeline_throughput_measured": false,
+  "paid_calls": 0
+}
