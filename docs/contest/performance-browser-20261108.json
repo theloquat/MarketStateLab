@@ -1,0 +1,15 @@
+{
+  "scope": "Three authenticated reloads of final populated workspace; warm browser cache, DOM diagnostic measured by browser Performance API after actual React summary commit; excludes login typing time",
+  "samples": [
+    {
+      "ready_ms": 299.2
+    },
+    {
+      "ready_ms": 104.1
+    },
+    {
+      "ready_ms": 231.1
+    }
+  ],
+  "paid_calls": 0
+}

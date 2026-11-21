@@ -1,0 +1,43 @@
+{
+  "created_at": 1795254414.251125,
+  "isolated_project": "quantos-clean-f71afa1785",
+  "checks": {
+    "starts_empty": true,
+    "official_asset_count": true,
+    "official_observation_count": true,
+    "same_snapshot_days": true,
+    "same_probabilities": true,
+    "historical_in_sample_marked": true,
+    "research_tool_executes": true,
+    "no_llm_config_inherited": true,
+    "durable_outboxes_drained": true,
+    "columnar_observation_feature_counts_equal": true,
+    "columnar_state_count": true,
+    "temporary_containers_and_volumes_removed": true
+  },
+  "paid_calls": 0,
+  "uses_prebuilt_images": true,
+  "image_build_from_source_separate_gate": true,
+  "image_ids": {
+    "quantos-contest:local": "sha256:499ae1544b494f10ad277753b474cfc2cfb7a83858f096bf8b35c3b8e3409e76",
+    "quantos-flink:local": "sha256:19f8ee160612047f7cd4c03c86548328ea76467427ecf9ca05d74e51bbc1f96f",
+    "quantos-gateway:local": "sha256:39d1e4b3a805953a9ae951ebae87ae96fb5cd5a18c2b41a152eba83ee5a60431"
+  },
+  "dataset_id": "6fff78ea6efaf06bfd7864c9",
+  "model_id": "fb4f72fd1d4fcfce6614467c",
+  "run_id": "d730d80075a0443aa95796d8",
+  "reference_id": "212954fd4550a537c109a0c6",
+  "snapshots": 66,
+  "max_probability_error": 3.552713678800501e-15,
+  "stores": {
+    "pending": 0,
+    "counts": {
+      "observations": 6451,
+      "features": 6451,
+      "states": 66,
+      "alerts": 13
+    }
+  },
+  "passed": true,
+  "finished_at": 1795254783.429798
+}
